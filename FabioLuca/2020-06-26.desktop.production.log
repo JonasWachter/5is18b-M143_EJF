@@ -216,3 +216,22 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 2020-06-26T13:40:48.458Z - info: [ui] Background fetch for 2 repositories took 1.149sec
 2020-06-26T13:43:10.438Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - Fabuuu (has token)
 2020-06-26T13:43:12.040Z - info: [ui] Executing pull: git -c credential.helper= -c protocol.version=2 pull --progress origin (took 1.488s)
+2020-06-26T13:54:15.396Z - info: [ui] [Timing] Action 'create commit' for 'jonaswachter/5is18b-M143_EJF' took 0.953s
+2020-06-26T13:54:17.027Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - Fabuuu (has token)
+2020-06-26T13:54:18.400Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master:master --progress (took 1.311s)
+2020-06-26T13:54:18.401Z - error: [ui] `git -c credential.helper= -c protocol.version=2 push origin master:master --progress` exited with an unexpected code: 1.
+stderr:
+To https://github.com/JonasWachter/5is18b-M143_EJF.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/JonasWachter/5is18b-M143_EJF.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+(The error was parsed as 10: The repository has been updated since you last pulled. Try pulling before pushing.)
+2020-06-26T13:54:22.786Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - Fabuuu (has token)
+2020-06-26T13:54:24.217Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.353s)
+2020-06-26T13:54:27.207Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - Fabuuu (has token)
+2020-06-26T13:54:28.713Z - info: [ui] Executing pull: git -c credential.helper= -c protocol.version=2 pull --progress origin (took 1.385s)
