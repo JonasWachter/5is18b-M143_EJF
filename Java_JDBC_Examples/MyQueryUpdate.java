@@ -1,14 +1,14 @@
 package com.java2novice.jdbc;
- 
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.sql.Statement;
- 
+
 public class MyQueryUpdate {
- 
+
     public static void main(String[] args) {
-         
+
         Connection con = null;
         Statement stmt = null;
         try {
@@ -17,7 +17,7 @@ public class MyQueryUpdate {
                     getConnection("jdbc:oracle:thin:@<hostname>:<port num>:<DB name>"
                         ,"user","password");
             stmt = con.createStatement();
-            String query = "update table emp set salary=2000 where empid=200";
+            String query = "update table emp set salary=2000 where empid=201";
             //count will give you how many records got updated
             int count = stmt.executeUpdate(query);
             System.out.println("Updated queries: "+count);
