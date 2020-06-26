@@ -1,0 +1,404 @@
+ Datentr„ger in Laufwerk C: ist System
+ Volumeseriennummer: A27E-093F
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF
+
+26.06.2020  15:40    <DIR>          .
+26.06.2020  15:40    <DIR>          ..
+26.06.2020  15:40                 0 FileList-EliaFrei.txt
+26.06.2020  15:39            13'587 FileList-FabioLuca.txt
+26.06.2020  15:16    <DIR>          Java_File_IO_Examples
+26.06.2020  15:31    <DIR>          Java_JDBC_Examples
+26.06.2020  15:16    <DIR>          Java_Sort_Examples
+26.06.2020  15:16                68 MemberList.txt
+               3 Datei(en),         13'655 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\.git
+
+26.06.2020  15:31               127 COMMIT_EDITMSG
+26.06.2020  15:16               338 config
+26.06.2020  15:16                73 description
+26.06.2020  15:39               109 FETCH_HEAD
+26.06.2020  15:16                23 HEAD
+26.06.2020  15:16    <DIR>          hooks
+26.06.2020  15:39             6'224 index
+26.06.2020  15:16    <DIR>          info
+26.06.2020  15:16    <DIR>          logs
+26.06.2020  15:39    <DIR>          objects
+26.06.2020  15:39                41 ORIG_HEAD
+26.06.2020  15:16               114 packed-refs
+26.06.2020  15:16    <DIR>          refs
+               8 Datei(en),          7'049 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\.git\hooks
+
+26.06.2020  15:16    <DIR>          .
+26.06.2020  15:16    <DIR>          ..
+26.06.2020  15:16               478 applypatch-msg.sample
+26.06.2020  15:16               896 commit-msg.sample
+26.06.2020  15:16             3'327 fsmonitor-watchman.sample
+26.06.2020  15:16               189 post-update.sample
+26.06.2020  15:16               424 pre-applypatch.sample
+26.06.2020  15:16             1'638 pre-commit.sample
+26.06.2020  15:16             1'348 pre-push.sample
+26.06.2020  15:16             4'898 pre-rebase.sample
+26.06.2020  15:16               544 pre-receive.sample
+26.06.2020  15:16             1'492 prepare-commit-msg.sample
+26.06.2020  15:16             3'610 update.sample
+              11 Datei(en),         18'844 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\.git\info
+
+26.06.2020  15:16    <DIR>          .
+26.06.2020  15:16    <DIR>          ..
+26.06.2020  15:16               240 exclude
+               1 Datei(en),            240 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\.git\logs
+
+26.06.2020  15:16    <DIR>          .
+26.06.2020  15:16    <DIR>          ..
+26.06.2020  15:39             1'026 HEAD
+26.06.2020  15:16    <DIR>          refs
+               1 Datei(en),          1'026 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\.git\logs\refs
+
+26.06.2020  15:16    <DIR>          .
+26.06.2020  15:16    <DIR>          ..
+26.06.2020  15:16    <DIR>          heads
+26.06.2020  15:16    <DIR>          remotes
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\.git\logs\refs\heads
+
+26.06.2020  15:16    <DIR>          .
+26.06.2020  15:16    <DIR>          ..
+26.06.2020  15:39             1'026 master
+               1 Datei(en),          1'026 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\.git\logs\refs\remotes
+
+26.06.2020  15:16    <DIR>          .
+26.06.2020  15:16    <DIR>          ..
+26.06.2020  15:18    <DIR>          origin
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\.git\logs\refs\remotes\origin
+
+26.06.2020  15:18    <DIR>          .
+26.06.2020  15:18    <DIR>          ..
+26.06.2020  15:16               217 HEAD
+26.06.2020  15:39               725 master
+               2 Datei(en),            942 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\.git\objects
+
+26.06.2020  15:39    <DIR>          .
+26.06.2020  15:39    <DIR>          ..
+26.06.2020  15:30    <DIR>          19
+26.06.2020  15:30    <DIR>          20
+26.06.2020  15:31    <DIR>          29
+26.06.2020  15:30    <DIR>          38
+26.06.2020  15:30    <DIR>          3f
+26.06.2020  15:18    <DIR>          48
+26.06.2020  15:30    <DIR>          49
+26.06.2020  15:30    <DIR>          5e
+26.06.2020  15:18    <DIR>          64
+26.06.2020  15:18    <DIR>          69
+26.06.2020  15:30    <DIR>          6d
+26.06.2020  15:30    <DIR>          83
+26.06.2020  15:30    <DIR>          8b
+26.06.2020  15:30    <DIR>          97
+26.06.2020  15:30    <DIR>          ad
+26.06.2020  15:39    <DIR>          be
+26.06.2020  15:30    <DIR>          d1
+26.06.2020  15:18    <DIR>          d6
+26.06.2020  15:31    <DIR>          d7
+26.06.2020  15:30    <DIR>          d8
+26.06.2020  15:39    <DIR>          dd
+26.06.2020  15:39    <DIR>          f3
+26.06.2020  15:16    <DIR>          info
+26.06.2020  15:16    <DIR>          pack
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\.git\objects\19
+
+26.06.2020  15:30    <DIR>          .
+26.06.2020  15:30    <DIR>          ..
+26.06.2020  15:30               200 dea8faa2694bdfc684602a49a3ce6a077a1a9b
+               1 Datei(en),            200 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\.git\objects\20
+
+26.06.2020  15:30    <DIR>          .
+26.06.2020  15:30    <DIR>          ..
+26.06.2020  15:30               821 9a979b855e92a6de40e4a668356297b5521f8b
+               1 Datei(en),            821 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\.git\objects\29
+
+26.06.2020  15:31    <DIR>          .
+26.06.2020  15:31    <DIR>          ..
+26.06.2020  15:31               618 d002ada5494311cfca00abe2334bbaf0dd390f
+               1 Datei(en),            618 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\.git\objects\38
+
+26.06.2020  15:30    <DIR>          .
+26.06.2020  15:30    <DIR>          ..
+26.06.2020  15:31               559 2c98996ef8ac466f8d3ea02630e7cbb7c917b5
+               1 Datei(en),            559 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\.git\objects\3f
+
+26.06.2020  15:30    <DIR>          .
+26.06.2020  15:30    <DIR>          ..
+26.06.2020  15:30               166 92ea1cb558c5bc901aeb82aa7ecf5975d28d62
+               1 Datei(en),            166 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\.git\objects\48
+
+26.06.2020  15:18    <DIR>          .
+26.06.2020  15:18    <DIR>          ..
+26.06.2020  15:18               631 a51d9436b20191801a023119b1dfae10df9b1b
+               1 Datei(en),            631 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\.git\objects\49
+
+26.06.2020  15:30    <DIR>          .
+26.06.2020  15:30    <DIR>          ..
+26.06.2020  15:30               559 d350683fe4c4f338ae689943fe34c53fad1cc0
+               1 Datei(en),            559 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\.git\objects\5e
+
+26.06.2020  15:30    <DIR>          .
+26.06.2020  15:30    <DIR>          ..
+26.06.2020  15:31               166 e0a4bdfd3b7cf453d265b154b3dd7e62889f92
+               1 Datei(en),            166 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\.git\objects\64
+
+26.06.2020  15:18    <DIR>          .
+26.06.2020  15:18    <DIR>          ..
+26.06.2020  15:18               167 097b906f85c4c0dc137fe30e0f0588c82256ce
+               1 Datei(en),            167 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\.git\objects\69
+
+26.06.2020  15:18    <DIR>          .
+26.06.2020  15:18    <DIR>          ..
+26.06.2020  15:18               195 e5ef468ec7748dcaa7d88429f49b5b4932eb29
+               1 Datei(en),            195 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\.git\objects\6d
+
+26.06.2020  15:30    <DIR>          .
+26.06.2020  15:30    <DIR>          ..
+26.06.2020  15:30               245 a9f8bd71eca9b33eca913784650285bd65f2b9
+               1 Datei(en),            245 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\.git\objects\83
+
+26.06.2020  15:30    <DIR>          .
+26.06.2020  15:30    <DIR>          ..
+26.06.2020  15:30               822 cdba131294f83f3a8910dbc638713e229b2bea
+               1 Datei(en),            822 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\.git\objects\8b
+
+26.06.2020  15:30    <DIR>          .
+26.06.2020  15:30    <DIR>          ..
+26.06.2020  15:31               822 847c78d64a1b34c3960693ecdcaba22ce9659d
+               1 Datei(en),            822 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\.git\objects\97
+
+26.06.2020  15:30    <DIR>          .
+26.06.2020  15:30    <DIR>          ..
+26.06.2020  15:30               557 616905a204a9d37a8dc05f4a5b7f310f201c1c
+               1 Datei(en),            557 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\.git\objects\ad
+
+26.06.2020  15:30    <DIR>          .
+26.06.2020  15:30    <DIR>          ..
+26.06.2020  15:30               193 c41487dfff983ca65775e795207bb45a6607ab
+               1 Datei(en),            193 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\.git\objects\be
+
+26.06.2020  15:39    <DIR>          .
+26.06.2020  15:39    <DIR>          ..
+26.06.2020  15:39               187 976421f3cff8d13722f5405d36efe2a4a3df02
+               1 Datei(en),            187 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\.git\objects\d1
+
+26.06.2020  15:30    <DIR>          .
+26.06.2020  15:30    <DIR>          ..
+26.06.2020  15:30               166 2bde915a95fb1c1582d650172e57434f0dba32
+               1 Datei(en),            166 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\.git\objects\d6
+
+26.06.2020  15:18    <DIR>          .
+26.06.2020  15:18    <DIR>          ..
+26.06.2020  15:18               822 a1d4c66ebfed5cdd1808548ffd54ebe815c998
+               1 Datei(en),            822 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\.git\objects\d7
+
+26.06.2020  15:31    <DIR>          .
+26.06.2020  15:31    <DIR>          ..
+26.06.2020  15:31               248 a6edd9603f068ec49a944e4f816a65087f6ea4
+               1 Datei(en),            248 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\.git\objects\d8
+
+26.06.2020  15:30    <DIR>          .
+26.06.2020  15:30    <DIR>          ..
+26.06.2020  15:30               175 6d569e5a1d92308d2b2c8e94a8383a05bcc1c5
+               1 Datei(en),            175 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\.git\objects\dd
+
+26.06.2020  15:39    <DIR>          .
+26.06.2020  15:39    <DIR>          ..
+26.06.2020  15:39             2'656 cb9da48d512884cf7d0f00a48d7982e0b71bf8
+               1 Datei(en),          2'656 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\.git\objects\f3
+
+26.06.2020  15:39    <DIR>          .
+26.06.2020  15:39    <DIR>          ..
+26.06.2020  15:39               206 f8a6a9864ca5c454be4997f4f48720c2aeeb88
+               1 Datei(en),            206 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\.git\objects\info
+
+26.06.2020  15:16    <DIR>          .
+26.06.2020  15:16    <DIR>          ..
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\.git\objects\pack
+
+26.06.2020  15:16    <DIR>          .
+26.06.2020  15:16    <DIR>          ..
+26.06.2020  15:16             3'452 pack-4585eb7f9030126dd3291b1d407e7cfe1bd160dc.idx
+26.06.2020  15:16            20'745 pack-4585eb7f9030126dd3291b1d407e7cfe1bd160dc.pack
+               2 Datei(en),         24'197 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\.git\refs
+
+26.06.2020  15:16    <DIR>          .
+26.06.2020  15:16    <DIR>          ..
+26.06.2020  15:39    <DIR>          heads
+26.06.2020  15:16    <DIR>          remotes
+26.06.2020  15:16    <DIR>          tags
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\.git\refs\heads
+
+26.06.2020  15:39    <DIR>          .
+26.06.2020  15:39    <DIR>          ..
+26.06.2020  15:39                41 master
+               1 Datei(en),             41 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\.git\refs\remotes
+
+26.06.2020  15:16    <DIR>          .
+26.06.2020  15:16    <DIR>          ..
+26.06.2020  15:39    <DIR>          origin
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\.git\refs\remotes\origin
+
+26.06.2020  15:39    <DIR>          .
+26.06.2020  15:39    <DIR>          ..
+26.06.2020  15:16                32 HEAD
+26.06.2020  15:39                41 master
+               2 Datei(en),             73 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\.git\refs\tags
+
+26.06.2020  15:16    <DIR>          .
+26.06.2020  15:16    <DIR>          ..
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\Java_File_IO_Examples
+
+26.06.2020  15:16    <DIR>          .
+26.06.2020  15:16    <DIR>          ..
+26.06.2020  15:16             1'233 @README.txt
+26.06.2020  15:16               838 ByteArrToInputStream.java
+26.06.2020  15:16             1'055 ByteWriteToFile.java
+26.06.2020  15:16               601 ClassLoaderFileLoading.java
+26.06.2020  15:16               327 FileListFromFolder.java
+26.06.2020  15:16               328 FilesListFromFolder.java
+26.06.2020  15:16             1'005 FileToByteArray.java
+26.06.2020  15:16             1'056 MyByteArrayToReader.java
+26.06.2020  15:16               655 MyFileFilter.java
+26.06.2020  15:16               262 MyFileLastModified.java
+26.06.2020  15:16             1'318 MyFileOperations.java
+26.06.2020  15:16               855 MyFilePermissions.java
+26.06.2020  15:16             1'021 MyFileReadBybis.java
+26.06.2020  15:16               230 MyFileUrl.java
+26.06.2020  15:16               796 MyFileXmlStore.java
+26.06.2020  15:16               676 MyFilteredFileList.java
+26.06.2020  15:16               943 MyIstoBr.java
+26.06.2020  15:16             2'817 MyObjectFileStore.java
+26.06.2020  15:16               799 MyPropertyFileStore.java
+26.06.2020  15:16             1'180 MyTempDelete.java
+26.06.2020  15:16               836 MyTempFileWrite.java
+26.06.2020  15:16               513 MyTmpFile.java
+26.06.2020  15:16               828 ReadFromConsole.java
+26.06.2020  15:16               748 ReadLinesFromFile.java
+26.06.2020  15:16             1'067 WriteToFile.java
+              25 Datei(en),         21'987 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\Java_JDBC_Examples
+
+26.06.2020  15:31    <DIR>          .
+26.06.2020  15:31    <DIR>          ..
+26.06.2020  15:16             1'611 @README.txt
+26.06.2020  15:16               248 @README2.txt
+26.06.2020  15:16               849 JdbcConnection.java
+26.06.2020  15:16             1'639 MyAutoGeneratedKeys.java
+26.06.2020  15:16             1'348 MyBatchCallableStatement
+26.06.2020  15:16             1'348 MyBatchCallableStatement.java
+26.06.2020  15:16             1'733 MyBatchPreparedStmt.java
+26.06.2020  15:16             1'635 MyBlobInsert.java
+26.06.2020  15:16             2'176 MyBlobRead.java
+26.06.2020  15:16               806 MyConnWithProperties.java
+26.06.2020  15:16             1'487 MyCursorCallableStmt.java
+26.06.2020  15:16             1'239 MyDatabaseMetadata.java
+26.06.2020  15:16             1'658 MyExecuteMethod.java
+26.06.2020  15:16             1'443 MyFunctionCallableStmt.java
+26.06.2020  15:16             1'446 MyOutparmCallableStmt.java
+26.06.2020  15:17             1'510 MyPreparedStatement.java
+26.06.2020  15:16             1'656 MyPrepStmtResltSet.java
+26.06.2020  15:31             1'291 MyQueryUpdate.java
+26.06.2020  15:16             1'194 MyResultSetEx.java
+26.06.2020  15:16             1'507 MyResultSetMetadata.java
+26.06.2020  15:16             1'748 MyScrollableResultSetEx.java
+26.06.2020  15:16             1'255 MySimpleCallableStatement.java
+26.06.2020  15:16             1'685 MyStatementBatchUpdate.java
+26.06.2020  15:16             1'533 MyUpdatableResultSet.java
+              24 Datei(en),         34'045 Bytes
+
+ Verzeichnis von C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF\Java_Sort_Examples
+
+26.06.2020  15:16    <DIR>          .
+26.06.2020  15:16    <DIR>          ..
+26.06.2020  15:16             1'044 MyBubbleSort.java
+26.06.2020  15:16               748 MyInsertionSort.java
+26.06.2020  15:16             1'904 MyMergeSort.java
+26.06.2020  15:16             2'065 MyQuickSort.java
+26.06.2020  15:16               787 MySelectionSort.java
+               5 Datei(en),          6'548 Bytes
+
+     Anzahl der angezeigten Dateien:
+             108 Datei(en),        140'854 Bytes
+             122 Verzeichnis(se), 23'079'841'792 Bytes frei
