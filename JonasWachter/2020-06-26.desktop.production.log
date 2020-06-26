@@ -1,0 +1,133 @@
+2020-06-26T12:21:16.237Z - info: [main] Received possible protocol arguments: 2
+2020-06-26T12:21:16.239Z - error: [main] Malformed launch arguments received: C:\Users\Jonas Wachter\AppData\Local\GitHubDesktop\app-2.5.3\GitHubDesktop.exe,--squirrel-firstrun
+2020-06-26T12:21:17.444Z - info: [ui] [AppStore] loading 0 repositories from store
+2020-06-26T12:21:17.460Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-26T12:21:17.462Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-26T12:21:18.799Z - info: [ui] launching: 2.5.3 (Windows 10.0.18362)
+2020-06-26T12:21:18.799Z - info: [ui] execPath: 'C:\Users\Jonas Wachter\AppData\Local\GitHubDesktop\app-2.5.3\GitHubDesktop.exe'
+2020-06-26T12:21:18.800Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-26T12:21:18.802Z - info: [ui] Opt in reported.
+2020-06-26T12:21:18.815Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-26T12:21:19.710Z - info: [ui] Executing installGlobalLFSFilter: git lfs install --skip-repo (took 2.181s)
+2020-06-26T12:21:38.578Z - info: [ui] [Welcome] advancing to step: SignInToDotComWithBrowser
+2020-06-26T12:21:38.579Z - info: [ui] [SignInStore] initializing OAuth flow
+2020-06-26T12:21:38.579Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=de0e3c7e9973e1c4dd77&scope=repo%20user%20workflow&state=bf2dd178-e58d-4f1b-82ce-a7f1bb1c4aca
+2020-06-26T12:21:38.579Z - info: [ui] [Welcome] current sign in state not found. ignoring...
+2020-06-26T12:21:38.587Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2020-06-26T12:21:38.737Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2020-06-26T12:21:41.355Z - info: [main] Received possible protocol arguments: 5
+2020-06-26T12:21:41.355Z - info: [main] Processing protocol url
+2020-06-26T12:21:41.355Z - info: [ui] [Dispatcher] requesting authenticated user
+2020-06-26T12:21:41.358Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2020-06-26T12:21:41.394Z - info: [main] Received possible protocol arguments: 3
+2020-06-26T12:21:41.395Z - info: [main] Processing protocol url
+2020-06-26T12:21:42.022Z - info: [ui] [SignInStore] account resolved
+2020-06-26T12:21:42.022Z - info: [ui] [AppStore] adding account JonasWachter (JonasWachter) to store
+2020-06-26T12:21:42.026Z - info: [ui] [Welcome] advancing to step: ConfigureGit
+2020-06-26T12:21:42.059Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-26T12:21:42.325Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-26T12:21:43.718Z - info: [ui] [Welcome] advancing to step: UsageOptOut
+2020-06-26T12:21:45.001Z - info: [ui] Opt in reported.
+2020-06-26T12:21:45.003Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-26T12:22:27.995Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/JonasWachter/5is18b-M143_EJF.git - JonasWachter (has token)
+2020-06-26T12:22:30.765Z - info: [ui] Executing clone: git -c credential.helper= -c protocol.version=2 clone --recursive --progress -- https://github.com/JonasWachter/5is18b-M143_EJF.git C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF (took 2.707s)
+2020-06-26T12:22:30.819Z - info: [ui] [AppStore] adding repository at C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF to store
+2020-06-26T12:22:31.517Z - info: [ui] [BranchPruner] No branches to prune.
+2020-06-26T12:23:18.049Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - JonasWachter (has token)
+2020-06-26T12:23:19.464Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.359s)
+2020-06-26T12:31:43.194Z - error: [ui] `git rev-parse --is-bare-repository` exited with an unexpected code: 128.
+stderr:
+fatal: not a git repository (or any of the parent directories): .git
+
+(The error was parsed as 28: This is not a git repository.)
+2020-06-26T12:31:50.986Z - info: [ui] [AppStore] adding repository at K:\01 - Informatik\01 - BBW\03 - Hofstetter\Modul - 143\11 - GitHub_2\JavaSamples\Java_File_IO_Examples to store
+2020-06-26T12:32:00.412Z - info: [ui] [BranchPruner] Last prune took place in a day - skipping
+2020-06-26T12:32:01.831Z - info: [ui] [BranchPruner] No branches to prune.
+2020-06-26T12:34:03.263Z - info: [ui] [AppStore] adding repository at K:\01 - Informatik\01 - BBW\03 - Hofstetter\Modul - 143\11 - GitHub_2\JavaSamples\Java_File_IO_Examples to store
+2020-06-26T12:34:14.979Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master --set-upstream --progress (took 4.279s)
+2020-06-26T12:34:16.804Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.769s)
+2020-06-26T12:34:22.134Z - info: [ui] [BranchPruner] Last prune took place in a day - skipping
+2020-06-26T12:34:28.959Z - info: [ui] [BranchPruner] No branches to prune.
+2020-06-26T12:34:36.184Z - info: [ui] [BranchPruner] No branches to prune.
+2020-06-26T12:34:50.161Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - JonasWachter (has token)
+2020-06-26T12:34:51.371Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master:master --progress (took 1.155s)
+2020-06-26T12:34:52.660Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.229s)
+2020-06-26T12:38:20.860Z - info: [ui] Background fetch for 2 repositories took 1.107sec
+2020-06-26T12:47:51.631Z - info: [ui] [BranchPruner] Last prune took place in a day - skipping
+2020-06-26T12:48:56.226Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - JonasWachter (has token)
+2020-06-26T12:48:57.487Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master:master --progress (took 1.209s)
+2020-06-26T12:48:58.779Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.237s)
+2020-06-26T12:49:03.988Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - JonasWachter (has token)
+2020-06-26T12:49:05.625Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.584s)
+2020-06-26T12:49:14.158Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - JonasWachter (has token)
+2020-06-26T12:49:15.352Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master:master --progress (took 1.140s)
+2020-06-26T12:49:16.607Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.200s)
+2020-06-26T12:49:44.745Z - info: [ui] [Timing] Action 'create commit' for 'jonaswachter/5is18b-M143_EJF' took 0.812s
+2020-06-26T12:49:48.753Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - JonasWachter (has token)
+2020-06-26T12:49:53.038Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master:master --progress (took 4.231s)
+2020-06-26T12:49:54.326Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.232s)
+2020-06-26T12:50:03.134Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - JonasWachter (has token)
+2020-06-26T12:50:05.225Z - info: [ui] Executing pull: git -c credential.helper= -c protocol.version=2 pull --progress origin (took 1.981s)
+2020-06-26T12:50:59.696Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - JonasWachter (has token)
+2020-06-26T12:51:01.132Z - info: [ui] Executing pull: git -c credential.helper= -c protocol.version=2 pull --progress origin (took 1.324s)
+2020-06-26T12:51:02.160Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - JonasWachter (has token)
+2020-06-26T12:51:03.982Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master:master --progress (took 1.771s)
+2020-06-26T12:51:05.274Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.236s)
+2020-06-26T12:52:31.801Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - JonasWachter (has token)
+2020-06-26T12:52:33.235Z - info: [ui] Executing pull: git -c credential.helper= -c protocol.version=2 pull --progress origin (took 1.323s)
+2020-06-26T12:53:20.784Z - info: [ui] Background fetch for 2 repositories took 1.028sec
+2020-06-26T13:00:38.141Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - JonasWachter (has token)
+2020-06-26T13:00:39.838Z - info: [ui] Executing pull: git -c credential.helper= -c protocol.version=2 pull --progress origin (took 1.587s)
+2020-06-26T13:01:51.663Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - JonasWachter (has token)
+2020-06-26T13:01:53.123Z - info: [ui] Executing pull: git -c credential.helper= -c protocol.version=2 pull --progress origin (took 1.345s)
+2020-06-26T13:03:22.433Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - JonasWachter (has token)
+2020-06-26T13:03:23.862Z - info: [ui] Executing pull: git -c credential.helper= -c protocol.version=2 pull --progress origin (took 1.301s)
+2020-06-26T13:04:26.318Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - JonasWachter (has token)
+2020-06-26T13:04:27.778Z - info: [ui] Executing pull: git -c credential.helper= -c protocol.version=2 pull --progress origin (took 1.348s)
+2020-06-26T13:05:40.245Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - JonasWachter (has token)
+2020-06-26T13:05:41.525Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master:master --progress (took 1.226s)
+2020-06-26T13:05:42.811Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.227s)
+2020-06-26T13:06:46.555Z - info: [ui] [Timing] Action 'create commit' for 'jonaswachter/5is18b-M143_EJF' took 0.795s
+2020-06-26T13:06:52.060Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - JonasWachter (has token)
+2020-06-26T13:06:56.139Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master:master --progress (took 4.025s)
+2020-06-26T13:06:57.421Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.226s)
+2020-06-26T13:07:05.804Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - JonasWachter (has token)
+2020-06-26T13:07:07.168Z - info: [ui] Executing pull: git -c credential.helper= -c protocol.version=2 pull --progress origin (took 1.253s)
+2020-06-26T13:08:20.881Z - info: [ui] Background fetch for 2 repositories took 1.124sec
+2020-06-26T13:09:33.541Z - info: [ui] [Timing] Action 'create commit' for 'jonaswachter/5is18b-M143_EJF' took 0.755s
+2020-06-26T13:09:34.306Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - JonasWachter (has token)
+2020-06-26T13:09:38.508Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master:master --progress (took 4.147s)
+2020-06-26T13:09:39.900Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.335s)
+2020-06-26T13:17:32.262Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - JonasWachter (has token)
+2020-06-26T13:17:33.749Z - info: [ui] Executing pull: git -c credential.helper= -c protocol.version=2 pull --progress origin (took 1.370s)
+2020-06-26T13:23:20.939Z - info: [ui] Background fetch for 2 repositories took 1.181sec
+2020-06-26T13:27:10.798Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - JonasWachter (has token)
+2020-06-26T13:27:12.322Z - info: [ui] Executing pull: git -c credential.helper= -c protocol.version=2 pull --progress origin (took 1.410s)
+2020-06-26T13:28:26.759Z - info: [ui] [Timing] Action 'create commit' for 'jonaswachter/5is18b-M143_EJF' took 0.744s
+2020-06-26T13:28:27.809Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - JonasWachter (has token)
+2020-06-26T13:28:32.189Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master:master --progress (took 4.326s)
+2020-06-26T13:28:33.475Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.227s)
+2020-06-26T13:28:36.313Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - JonasWachter (has token)
+2020-06-26T13:28:37.588Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.220s)
+2020-06-26T13:32:18.567Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - JonasWachter (has token)
+2020-06-26T13:32:20.206Z - info: [ui] Executing pull: git -c credential.helper= -c protocol.version=2 pull --progress origin (took 1.525s)
+2020-06-26T13:38:20.897Z - info: [ui] Background fetch for 2 repositories took 1.147sec
+2020-06-26T13:41:35.840Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - JonasWachter (has token)
+2020-06-26T13:41:37.342Z - info: [ui] Executing pull: git -c credential.helper= -c protocol.version=2 pull --progress origin (took 1.393s)
+2020-06-26T13:41:41.994Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - JonasWachter (has token)
+2020-06-26T13:41:43.592Z - info: [ui] Executing pull: git -c credential.helper= -c protocol.version=2 pull --progress origin (took 1.489s)
+2020-06-26T13:42:34.700Z - info: [ui] [Timing] Action 'create commit' for 'jonaswachter/5is18b-M143_EJF' took 0.749s
+2020-06-26T13:42:37.315Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - JonasWachter (has token)
+2020-06-26T13:42:41.444Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master:master --progress (took 4.075s)
+2020-06-26T13:42:42.715Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.216s)
+2020-06-26T13:43:32.410Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - JonasWachter (has token)
+2020-06-26T13:43:33.776Z - info: [ui] Executing pull: git -c credential.helper= -c protocol.version=2 pull --progress origin (took 1.259s)
+2020-06-26T13:50:43.588Z - info: [ui] [Timing] Action 'create commit' for 'jonaswachter/5is18b-M143_EJF' took 0.809s
+2020-06-26T13:50:44.467Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - JonasWachter (has token)
+2020-06-26T13:50:48.670Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master:master --progress (took 4.147s)
+2020-06-26T13:50:49.935Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.213s)
+2020-06-26T13:53:20.905Z - info: [ui] Background fetch for 2 repositories took 1.146sec
+2020-06-26T13:57:08.109Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - JonasWachter (has token)
+2020-06-26T13:57:09.671Z - info: [ui] Executing pull: git -c credential.helper= -c protocol.version=2 pull --progress origin (took 1.455s)
+2020-06-26T13:57:13.172Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - JonasWachter (has token)
+2020-06-26T13:57:14.543Z - info: [ui] Executing pull: git -c credential.helper= -c protocol.version=2 pull --progress origin (took 1.265s)
