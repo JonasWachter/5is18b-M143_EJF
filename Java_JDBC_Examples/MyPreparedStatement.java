@@ -1,14 +1,14 @@
 package com.java2novice.jdbc;
- 
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
- 
+
 public class MyPreparedStatement {
- 
+
     public static void main(String a[]){
-         
+
         Connection con = null;
         PreparedStatement prSt = null;
         try {
@@ -20,14 +20,14 @@ public class MyPreparedStatement {
             prSt = con.prepareStatement(query);
             prSt.setString(1, "John");
             prSt.setInt(2, 10000);
-            //count will give you how many records got updated Jonas Wachter
+            //count will give you how many records got updated Fabio Luca
             int count = prSt.executeUpdate();
             //Run the same query with different values
             prSt.setString(1, "Cric");
             prSt.setInt(2, 5000);
             count = prSt.executeUpdate();
         } catch (ClassNotFoundException e) {
-            // TODO Auto-generated catch block
+            // TODO Auto-generated catch block Jonas Wachter
             e.printStackTrace();
         } catch (SQLException e) {
             // TODO Auto-generated catch block
