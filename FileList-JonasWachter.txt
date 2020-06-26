@@ -1,0 +1,955 @@
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: 50CF-BBA7
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF
+
+26.06.2020  15:50    <DIR>          .
+26.06.2020  15:50    <DIR>          ..
+26.06.2020  15:41            17'917 FileList-EliaFrei.txt
+26.06.2020  15:41            13'587 FileList-FabioLuca.txt
+26.06.2020  15:50                 0 FileList-JonasWachter.txt
+26.06.2020  15:04    <DIR>          Java_File_IO_Examples
+26.06.2020  15:49    <DIR>          Java_JDBC_Examples
+26.06.2020  15:04    <DIR>          Java_Sort_Examples
+26.06.2020  15:01                68 MemberList.txt
+               4 Datei(en),         31'572 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git
+
+26.06.2020  15:42                17 COMMIT_EDITMSG
+26.06.2020  14:22               338 config
+26.06.2020  14:22                73 description
+26.06.2020  15:43               109 FETCH_HEAD
+26.06.2020  14:22                23 HEAD
+26.06.2020  14:22    <DIR>          hooks
+26.06.2020  15:42             6'424 index
+26.06.2020  14:22    <DIR>          info
+26.06.2020  14:22    <DIR>          logs
+26.06.2020  15:42    <DIR>          objects
+26.06.2020  15:43                41 ORIG_HEAD
+26.06.2020  14:22               114 packed-refs
+26.06.2020  14:22    <DIR>          refs
+               8 Datei(en),          7'139 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\hooks
+
+26.06.2020  14:22    <DIR>          .
+26.06.2020  14:22    <DIR>          ..
+26.06.2020  14:22               478 applypatch-msg.sample
+26.06.2020  14:22               896 commit-msg.sample
+26.06.2020  14:22             3'327 fsmonitor-watchman.sample
+26.06.2020  14:22               189 post-update.sample
+26.06.2020  14:22               424 pre-applypatch.sample
+26.06.2020  14:22             1'638 pre-commit.sample
+26.06.2020  14:22             1'348 pre-push.sample
+26.06.2020  14:22             4'898 pre-rebase.sample
+26.06.2020  14:22               544 pre-receive.sample
+26.06.2020  14:22             1'492 prepare-commit-msg.sample
+26.06.2020  14:22             3'610 update.sample
+              11 Datei(en),         18'844 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\info
+
+26.06.2020  14:22    <DIR>          .
+26.06.2020  14:22    <DIR>          ..
+26.06.2020  14:22               240 exclude
+               1 Datei(en),            240 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\logs
+
+26.06.2020  14:22    <DIR>          .
+26.06.2020  14:22    <DIR>          ..
+26.06.2020  15:42             2'618 HEAD
+26.06.2020  14:22    <DIR>          refs
+               1 Datei(en),          2'618 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\logs\refs
+
+26.06.2020  14:22    <DIR>          .
+26.06.2020  14:22    <DIR>          ..
+26.06.2020  14:22    <DIR>          heads
+26.06.2020  14:22    <DIR>          remotes
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\logs\refs\heads
+
+26.06.2020  14:22    <DIR>          .
+26.06.2020  14:22    <DIR>          ..
+26.06.2020  15:42             2'618 master
+               1 Datei(en),          2'618 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\logs\refs\remotes
+
+26.06.2020  14:22    <DIR>          .
+26.06.2020  14:22    <DIR>          ..
+26.06.2020  14:49    <DIR>          origin
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\logs\refs\remotes\origin
+
+26.06.2020  14:49    <DIR>          .
+26.06.2020  14:49    <DIR>          ..
+26.06.2020  14:22               225 HEAD
+26.06.2020  15:42             2'266 master
+               2 Datei(en),          2'491 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects
+
+26.06.2020  15:42    <DIR>          .
+26.06.2020  15:42    <DIR>          ..
+26.06.2020  15:42    <DIR>          02
+26.06.2020  14:49    <DIR>          04
+26.06.2020  15:00    <DIR>          08
+26.06.2020  14:49    <DIR>          0f
+26.06.2020  15:42    <DIR>          11
+26.06.2020  14:49    <DIR>          15
+26.06.2020  15:28    <DIR>          19
+26.06.2020  14:49    <DIR>          1d
+26.06.2020  15:32    <DIR>          20
+26.06.2020  15:00    <DIR>          22
+26.06.2020  15:00    <DIR>          27
+26.06.2020  15:00    <DIR>          29
+26.06.2020  15:00    <DIR>          2a
+26.06.2020  15:00    <DIR>          2e
+26.06.2020  14:49    <DIR>          34
+26.06.2020  15:32    <DIR>          38
+26.06.2020  15:17    <DIR>          3b
+26.06.2020  15:42    <DIR>          3e
+26.06.2020  15:32    <DIR>          3f
+26.06.2020  14:49    <DIR>          44
+26.06.2020  15:04    <DIR>          46
+26.06.2020  15:27    <DIR>          48
+26.06.2020  15:28    <DIR>          49
+26.06.2020  15:01    <DIR>          4b
+26.06.2020  15:04    <DIR>          4c
+26.06.2020  15:00    <DIR>          55
+26.06.2020  15:00    <DIR>          56
+26.06.2020  15:00    <DIR>          58
+26.06.2020  14:49    <DIR>          59
+26.06.2020  15:41    <DIR>          5c
+26.06.2020  15:32    <DIR>          5e
+26.06.2020  15:27    <DIR>          64
+26.06.2020  15:00    <DIR>          67
+26.06.2020  15:27    <DIR>          69
+26.06.2020  15:00    <DIR>          6b
+26.06.2020  15:32    <DIR>          6d
+26.06.2020  15:04    <DIR>          6e
+26.06.2020  15:09    <DIR>          6f
+26.06.2020  14:49    <DIR>          72
+26.06.2020  15:00    <DIR>          76
+26.06.2020  15:17    <DIR>          7b
+26.06.2020  15:00    <DIR>          81
+26.06.2020  14:49    <DIR>          82
+26.06.2020  15:28    <DIR>          83
+26.06.2020  15:32    <DIR>          8b
+26.06.2020  14:49    <DIR>          8e
+26.06.2020  15:06    <DIR>          94
+26.06.2020  15:06    <DIR>          95
+26.06.2020  15:32    <DIR>          97
+26.06.2020  15:01    <DIR>          9a
+26.06.2020  15:00    <DIR>          a2
+26.06.2020  15:04    <DIR>          a3
+26.06.2020  15:17    <DIR>          a4
+26.06.2020  15:00    <DIR>          a6
+26.06.2020  15:00    <DIR>          a7
+26.06.2020  15:41    <DIR>          a9
+26.06.2020  15:42    <DIR>          ab
+26.06.2020  15:00    <DIR>          ac
+26.06.2020  15:32    <DIR>          ad
+26.06.2020  15:09    <DIR>          b1
+26.06.2020  15:00    <DIR>          b5
+26.06.2020  15:17    <DIR>          b6
+26.06.2020  15:00    <DIR>          b7
+26.06.2020  14:49    <DIR>          b8
+26.06.2020  15:41    <DIR>          be
+26.06.2020  15:04    <DIR>          c2
+26.06.2020  15:00    <DIR>          c7
+26.06.2020  15:04    <DIR>          c8
+26.06.2020  15:09    <DIR>          cd
+26.06.2020  14:49    <DIR>          d0
+26.06.2020  15:28    <DIR>          d1
+26.06.2020  15:41    <DIR>          d2
+26.06.2020  15:06    <DIR>          d3
+26.06.2020  15:00    <DIR>          d4
+26.06.2020  15:27    <DIR>          d6
+26.06.2020  15:32    <DIR>          d7
+26.06.2020  15:32    <DIR>          d8
+26.06.2020  15:41    <DIR>          dd
+26.06.2020  15:00    <DIR>          e2
+26.06.2020  15:00    <DIR>          e3
+26.06.2020  15:00    <DIR>          e4
+26.06.2020  14:49    <DIR>          e9
+26.06.2020  14:49    <DIR>          ea
+26.06.2020  14:49    <DIR>          ee
+26.06.2020  15:00    <DIR>          f2
+26.06.2020  15:41    <DIR>          f3
+26.06.2020  15:00    <DIR>          f5
+26.06.2020  14:49    <DIR>          fc
+26.06.2020  14:22    <DIR>          info
+26.06.2020  14:22    <DIR>          pack
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\02
+
+26.06.2020  15:42    <DIR>          .
+26.06.2020  15:42    <DIR>          ..
+26.06.2020  15:42               869 db902fe0f09411f16d0076875f3e6647e0d4f9
+               1 Datei(en),            869 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\04
+
+26.06.2020  14:49    <DIR>          .
+26.06.2020  14:49    <DIR>          ..
+26.06.2020  14:49               575 2ed705cba8f4177da8cceee128fd8796e09e42
+26.06.2020  14:49               692 dfc7caa2f9068c3e90c2efcc4cc0aaa95e737b
+               2 Datei(en),          1'267 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\08
+
+26.06.2020  15:00    <DIR>          .
+26.06.2020  15:00    <DIR>          ..
+26.06.2020  15:00               137 dbd564d6c31dd32bf0ee6c3a0967087b68af12
+               1 Datei(en),            137 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\0f
+
+26.06.2020  14:49    <DIR>          .
+26.06.2020  14:49    <DIR>          ..
+26.06.2020  14:49               363 494e8e74fce15bf201f91f88d0feeec86c807c
+               1 Datei(en),            363 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\11
+
+26.06.2020  15:42    <DIR>          .
+26.06.2020  15:42    <DIR>          ..
+26.06.2020  15:42               189 3c43fffcbbc7d62c72883d08ed094f246b17d8
+26.06.2020  15:09               166 54b90ea672e85808d2170a93b81efef43e1e61
+               2 Datei(en),            355 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\15
+
+26.06.2020  14:49    <DIR>          .
+26.06.2020  14:49    <DIR>          ..
+26.06.2020  14:49               659 a438c83ba1278b2d46665bb54c5b901de8b17a
+26.06.2020  14:49               818 c19dccfd275c0410f3c4f9a093d999616480cd
+               2 Datei(en),          1'477 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\19
+
+26.06.2020  15:28    <DIR>          .
+26.06.2020  15:28    <DIR>          ..
+26.06.2020  15:28               200 dea8faa2694bdfc684602a49a3ce6a077a1a9b
+               1 Datei(en),            200 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\1d
+
+26.06.2020  14:49    <DIR>          .
+26.06.2020  14:49    <DIR>          ..
+26.06.2020  14:49               153 15212668c52d2f1475bda23534d87206bcf147
+               1 Datei(en),            153 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\20
+
+26.06.2020  15:32    <DIR>          .
+26.06.2020  15:32    <DIR>          ..
+26.06.2020  15:32               821 9a979b855e92a6de40e4a668356297b5521f8b
+               1 Datei(en),            821 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\22
+
+26.06.2020  15:00    <DIR>          .
+26.06.2020  15:00    <DIR>          ..
+26.06.2020  15:00               328 5698423cc793d673ae179d74bc5094af58f7b1
+               1 Datei(en),            328 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\27
+
+26.06.2020  15:00    <DIR>          .
+26.06.2020  15:00    <DIR>          ..
+26.06.2020  15:00               347 2c444a42acd696be7ee75eaa2dfd6e37333c17
+               1 Datei(en),            347 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\29
+
+26.06.2020  15:00    <DIR>          .
+26.06.2020  15:00    <DIR>          ..
+26.06.2020  15:00               397 33d6e223467003d6ac64b1aa53620d8e12f2a7
+26.06.2020  15:00               191 8228e67c6096afcdf1971958e507acfe37e86f
+               2 Datei(en),            588 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\2a
+
+26.06.2020  15:00    <DIR>          .
+26.06.2020  15:00    <DIR>          ..
+26.06.2020  15:00               642 b9b468ef51ce2b2b8cff74805086f04af69590
+               1 Datei(en),            642 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\2e
+
+26.06.2020  15:00    <DIR>          .
+26.06.2020  15:00    <DIR>          ..
+26.06.2020  15:00               381 bcc94f6a0b55d7908991f1af0a680168cba4eb
+               1 Datei(en),            381 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\34
+
+26.06.2020  14:49    <DIR>          .
+26.06.2020  14:49    <DIR>          ..
+26.06.2020  14:49               597 422d92cd8be93c01ba675f741649c5fc52bab6
+               1 Datei(en),            597 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\38
+
+26.06.2020  15:32    <DIR>          .
+26.06.2020  15:32    <DIR>          ..
+26.06.2020  15:32               559 2c98996ef8ac466f8d3ea02630e7cbb7c917b5
+               1 Datei(en),            559 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\3b
+
+26.06.2020  15:17    <DIR>          .
+26.06.2020  15:17    <DIR>          ..
+26.06.2020  15:17               624 9b574149b2cc5ef49d41d23df7e26b4a89a091
+               1 Datei(en),            624 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\3e
+
+26.06.2020  15:42    <DIR>          .
+26.06.2020  15:42    <DIR>          ..
+26.06.2020  15:42               240 43eb416840984c3fcd9fc21f6ca52411530d92
+26.06.2020  15:00               343 d9c639883165ad0791679facc2d27ee7cad470
+               2 Datei(en),            583 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\3f
+
+26.06.2020  15:32    <DIR>          .
+26.06.2020  15:32    <DIR>          ..
+26.06.2020  15:00               353 27f69076edcf9fc3b96b595e0e8e7242b1942d
+26.06.2020  15:32               166 92ea1cb558c5bc901aeb82aa7ecf5975d28d62
+               2 Datei(en),            519 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\44
+
+26.06.2020  14:49    <DIR>          .
+26.06.2020  14:49    <DIR>          ..
+26.06.2020  14:49               529 4300b7d02034d4280471c785d94dc558e0d343
+               1 Datei(en),            529 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\46
+
+26.06.2020  15:04    <DIR>          .
+26.06.2020  15:04    <DIR>          ..
+26.06.2020  14:49               613 668799654e2cfbbecdfa38bd131d55c8d9be9d
+26.06.2020  15:04               868 f58b6be24a6f3031bce0978bd4ad2b5c054422
+               2 Datei(en),          1'481 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\48
+
+26.06.2020  15:27    <DIR>          .
+26.06.2020  15:27    <DIR>          ..
+26.06.2020  15:27               631 a51d9436b20191801a023119b1dfae10df9b1b
+               1 Datei(en),            631 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\49
+
+26.06.2020  15:28    <DIR>          .
+26.06.2020  15:28    <DIR>          ..
+26.06.2020  15:28               559 d350683fe4c4f338ae689943fe34c53fad1cc0
+               1 Datei(en),            559 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\4b
+
+26.06.2020  15:01    <DIR>          .
+26.06.2020  15:01    <DIR>          ..
+26.06.2020  15:01               178 8046e6358e9a0787646c848a7b128abefe4265
+               1 Datei(en),            178 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\4c
+
+26.06.2020  15:04    <DIR>          .
+26.06.2020  15:04    <DIR>          ..
+26.06.2020  15:00               391 b0d5c02041b54670201cf2e54f10ff4359bca1
+26.06.2020  15:04               194 d98aa5d0e8c7f9baeee23ff8b88b830790210d
+               2 Datei(en),            585 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\55
+
+26.06.2020  15:00    <DIR>          .
+26.06.2020  15:00    <DIR>          ..
+26.06.2020  15:00               393 64f51b3b5b5c5b8f3ff1182e24a8ae179f03f8
+26.06.2020  15:00               190 9e378c091c741de6bad03381511f8a2df94833
+26.06.2020  14:49               585 e9aeb05392f42cb7782d5d08bae6b941b15348
+               3 Datei(en),          1'168 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\56
+
+26.06.2020  15:00    <DIR>          .
+26.06.2020  15:00    <DIR>          ..
+26.06.2020  15:00               453 3d275186cd4be025ba73c2929c274bd670a2b7
+               1 Datei(en),            453 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\58
+
+26.06.2020  15:00    <DIR>          .
+26.06.2020  15:00    <DIR>          ..
+26.06.2020  15:00               332 4b0d5700aa1455411492efc40f02d001b08b8f
+               1 Datei(en),            332 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\59
+
+26.06.2020  14:49    <DIR>          .
+26.06.2020  14:49    <DIR>          ..
+26.06.2020  14:49               624 d556b2a4d4be36b1edb24343d7f2b1ad9273ef
+               1 Datei(en),            624 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\5c
+
+26.06.2020  15:41    <DIR>          .
+26.06.2020  15:41    <DIR>          ..
+26.06.2020  15:41             3'108 eead0365bbcbc902fbf59210a5d0176ee0f272
+               1 Datei(en),          3'108 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\5e
+
+26.06.2020  15:32    <DIR>          .
+26.06.2020  15:32    <DIR>          ..
+26.06.2020  15:32               166 e0a4bdfd3b7cf453d265b154b3dd7e62889f92
+               1 Datei(en),            166 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\64
+
+26.06.2020  15:27    <DIR>          .
+26.06.2020  15:27    <DIR>          ..
+26.06.2020  15:27               167 097b906f85c4c0dc137fe30e0f0588c82256ce
+               1 Datei(en),            167 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\67
+
+26.06.2020  15:00    <DIR>          .
+26.06.2020  15:00    <DIR>          ..
+26.06.2020  15:00               190 a5558449541b2c99ea591168e05cb151193984
+               1 Datei(en),            190 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\69
+
+26.06.2020  15:27    <DIR>          .
+26.06.2020  15:27    <DIR>          ..
+26.06.2020  15:27               195 e5ef468ec7748dcaa7d88429f49b5b4932eb29
+               1 Datei(en),            195 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\6b
+
+26.06.2020  15:00    <DIR>          .
+26.06.2020  15:00    <DIR>          ..
+26.06.2020  15:00               440 93a7cdd7dc82100da3871e8ccdcf400607889b
+               1 Datei(en),            440 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\6d
+
+26.06.2020  15:32    <DIR>          .
+26.06.2020  15:32    <DIR>          ..
+26.06.2020  14:49               599 9cff1b65240a245ce2e6d44e37d1b30f3b8f20
+26.06.2020  15:32               245 a9f8bd71eca9b33eca913784650285bd65f2b9
+               2 Datei(en),            844 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\6e
+
+26.06.2020  15:04    <DIR>          .
+26.06.2020  15:04    <DIR>          ..
+26.06.2020  15:04               193 1dfe6a663ceb26a7d8e6d65f26a2abe998bfe9
+               1 Datei(en),            193 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\6f
+
+26.06.2020  15:09    <DIR>          .
+26.06.2020  15:09    <DIR>          ..
+26.06.2020  15:09               204 e60312f5c3b0ba8840057c45dfc65fbb0ede11
+               1 Datei(en),            204 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\72
+
+26.06.2020  14:49    <DIR>          .
+26.06.2020  14:49    <DIR>          ..
+26.06.2020  14:49               104 4621ab5bece622363b2b2c6208c260036c7482
+26.06.2020  14:49               616 bdabd77a8a6336d792a2e79701c597577ce624
+               2 Datei(en),            720 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\76
+
+26.06.2020  15:00    <DIR>          .
+26.06.2020  15:00    <DIR>          ..
+26.06.2020  15:00               465 0ae90bc826f7ea4260b2c48235905ed96fa4cb
+               1 Datei(en),            465 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\7b
+
+26.06.2020  15:17    <DIR>          .
+26.06.2020  15:17    <DIR>          ..
+26.06.2020  15:17               196 ccc4e4f4b409106bdf8ac653cb3ac650215324
+               1 Datei(en),            196 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\81
+
+26.06.2020  15:00    <DIR>          .
+26.06.2020  15:00    <DIR>          ..
+26.06.2020  15:00               352 99354eeb3a082389d268849623f9b5adfe0491
+               1 Datei(en),            352 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\82
+
+26.06.2020  14:49    <DIR>          .
+26.06.2020  14:49    <DIR>          ..
+26.06.2020  14:49               613 23a82138c0f78ef489c5f7af8dbca05c8f4c5e
+               1 Datei(en),            613 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\83
+
+26.06.2020  15:28    <DIR>          .
+26.06.2020  15:28    <DIR>          ..
+26.06.2020  15:06               531 1152a6061ec0b9e84746d5f35e52f1b1f0575c
+26.06.2020  15:28               822 cdba131294f83f3a8910dbc638713e229b2bea
+26.06.2020  15:00               439 d0a74297dcb6497dac8cb6753dbaddaf73f9e6
+               3 Datei(en),          1'792 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\8b
+
+26.06.2020  15:32    <DIR>          .
+26.06.2020  15:32    <DIR>          ..
+26.06.2020  15:32               822 847c78d64a1b34c3960693ecdcaba22ce9659d
+               1 Datei(en),            822 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\8e
+
+26.06.2020  14:49    <DIR>          .
+26.06.2020  14:49    <DIR>          ..
+26.06.2020  14:49               648 9fb836993101f9ac1a1f3deca3f4aafbf7d902
+               1 Datei(en),            648 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\94
+
+26.06.2020  15:06    <DIR>          .
+26.06.2020  15:06    <DIR>          ..
+26.06.2020  15:06               211 9182867daa0fb0bf4245c420969c7769db6c66
+               1 Datei(en),            211 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\95
+
+26.06.2020  15:06    <DIR>          .
+26.06.2020  15:06    <DIR>          ..
+26.06.2020  15:06               821 a89aa39ef647d243490a941d9bb77b3ab80a8b
+               1 Datei(en),            821 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\97
+
+26.06.2020  15:32    <DIR>          .
+26.06.2020  15:32    <DIR>          ..
+26.06.2020  15:32               557 616905a204a9d37a8dc05f4a5b7f310f201c1c
+               1 Datei(en),            557 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\9a
+
+26.06.2020  15:01    <DIR>          .
+26.06.2020  15:01    <DIR>          ..
+26.06.2020  15:01               167 90800e0e5ba5658e802ef45a69bfd6b6ee86e4
+               1 Datei(en),            167 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\a2
+
+26.06.2020  15:00    <DIR>          .
+26.06.2020  15:00    <DIR>          ..
+26.06.2020  15:00               302 528d4f24a8b36b1c89500b5c1c392d8e773268
+               1 Datei(en),            302 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\a3
+
+26.06.2020  15:04    <DIR>          .
+26.06.2020  15:04    <DIR>          ..
+26.06.2020  15:04               187 c51976e99366781c42d0b723604bb3b2d788c8
+               1 Datei(en),            187 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\a4
+
+26.06.2020  15:17    <DIR>          .
+26.06.2020  15:17    <DIR>          ..
+26.06.2020  15:17               822 0529319ec8a29d33d4eec4bd2f456a367be087
+26.06.2020  14:49               196 75d305b73d9eb27ee636d5c0812414b7688eb6
+               2 Datei(en),          1'018 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\a6
+
+26.06.2020  15:00    <DIR>          .
+26.06.2020  15:00    <DIR>          ..
+26.06.2020  15:00               781 e4f7d92bf447660d11804b436fa57e1e2b6b4e
+               1 Datei(en),            781 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\a7
+
+26.06.2020  15:00    <DIR>          .
+26.06.2020  15:00    <DIR>          ..
+26.06.2020  15:00               285 ce5df83aafb10f347bf6d426481f56fb296589
+26.06.2020  15:00               447 d460ccc7451bc4441bd62b068c5ca84e7fa144
+               2 Datei(en),            732 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\a9
+
+26.06.2020  15:41    <DIR>          .
+26.06.2020  15:41    <DIR>          ..
+26.06.2020  15:41               189 381ed390a04cd9791135b2fbc4252d56ce91a0
+               1 Datei(en),            189 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\ab
+
+26.06.2020  15:42    <DIR>          .
+26.06.2020  15:42    <DIR>          ..
+26.06.2020  15:42               663 97f97f672eac9382c2d6beb1139e585417dabe
+               1 Datei(en),            663 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\ac
+
+26.06.2020  15:00    <DIR>          .
+26.06.2020  15:00    <DIR>          ..
+26.06.2020  15:00               212 d36e4f9fa6f9bab9082e8295e63b3918b9fe34
+26.06.2020  15:00               222 fa4339f916f88932fdfa524de438b09676cd33
+               2 Datei(en),            434 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\ad
+
+26.06.2020  15:32    <DIR>          .
+26.06.2020  15:32    <DIR>          ..
+26.06.2020  15:32               193 c41487dfff983ca65775e795207bb45a6607ab
+               1 Datei(en),            193 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\b1
+
+26.06.2020  15:09    <DIR>          .
+26.06.2020  15:09    <DIR>          ..
+26.06.2020  15:09               613 9487acb62412629a61981426f6578c801c3e70
+               1 Datei(en),            613 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\b5
+
+26.06.2020  15:00    <DIR>          .
+26.06.2020  15:00    <DIR>          ..
+26.06.2020  15:00               185 a8736fe48958847c35a4afc7bfbff2ed5e3811
+               1 Datei(en),            185 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\b6
+
+26.06.2020  15:17    <DIR>          .
+26.06.2020  15:17    <DIR>          ..
+26.06.2020  15:17               166 de65b953f25be28cfbf83587cb9a0ba65f5f3f
+26.06.2020  15:00               457 e280caf330f7b86d3a3e5b8d7400b609b7ae12
+               2 Datei(en),            623 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\b7
+
+26.06.2020  15:00    <DIR>          .
+26.06.2020  15:00    <DIR>          ..
+26.06.2020  15:00               523 fec22f0ba26b4c6a18b0c85a6dc33ece7cf8c8
+               1 Datei(en),            523 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\b8
+
+26.06.2020  14:49    <DIR>          .
+26.06.2020  14:49    <DIR>          ..
+26.06.2020  14:49               631 e656b9c617d667fb874b06b1d8eea2eecdb103
+               1 Datei(en),            631 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\be
+
+26.06.2020  15:41    <DIR>          .
+26.06.2020  15:41    <DIR>          ..
+26.06.2020  15:41               187 976421f3cff8d13722f5405d36efe2a4a3df02
+               1 Datei(en),            187 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\c2
+
+26.06.2020  15:04    <DIR>          .
+26.06.2020  15:04    <DIR>          ..
+26.06.2020  15:04               167 50c3e41f63c70f86aea1468662ba2d53b7eec4
+               1 Datei(en),            167 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\c7
+
+26.06.2020  15:00    <DIR>          .
+26.06.2020  15:00    <DIR>          ..
+26.06.2020  15:00               381 2c6348f5e204f18215b7afef8bc3f12da30636
+26.06.2020  15:00               327 74f72a6ae151444d0ba5b1d145ab4c2363f552
+               2 Datei(en),            708 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\c8
+
+26.06.2020  15:04    <DIR>          .
+26.06.2020  15:04    <DIR>          ..
+26.06.2020  15:04               167 a69dc1df3d757453e7cc126b3dca31f305cb85
+               1 Datei(en),            167 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\cd
+
+26.06.2020  15:09    <DIR>          .
+26.06.2020  15:09    <DIR>          ..
+26.06.2020  15:09               821 1c3f8625eee45500c210082831f7a110e1e64e
+               1 Datei(en),            821 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\d0
+
+26.06.2020  14:49    <DIR>          .
+26.06.2020  14:49    <DIR>          ..
+26.06.2020  14:49               558 2a34ee7cec61c73f549d83141681816400e7b3
+               1 Datei(en),            558 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\d1
+
+26.06.2020  15:28    <DIR>          .
+26.06.2020  15:28    <DIR>          ..
+26.06.2020  15:28               166 2bde915a95fb1c1582d650172e57434f0dba32
+26.06.2020  14:49               466 f992e17271c5221d820b014e4219c07169178f
+               2 Datei(en),            632 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\d2
+
+26.06.2020  15:41    <DIR>          .
+26.06.2020  15:41    <DIR>          ..
+26.06.2020  15:01                69 41e4f20034d9ea74cfdece1b06aff71de3e7d8
+26.06.2020  15:41               240 434fb8aa60b56149ff2f1f017a036d4ec1545e
+               2 Datei(en),            309 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\d3
+
+26.06.2020  15:06    <DIR>          .
+26.06.2020  15:06    <DIR>          ..
+26.06.2020  15:06               167 670c9cbe6a46d43395b6a8b37ca3a3a00690cf
+               1 Datei(en),            167 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\d4
+
+26.06.2020  15:00    <DIR>          .
+26.06.2020  15:00    <DIR>          ..
+26.06.2020  15:00               868 35725f345d26d1ebca954956f3c0c1d346ed19
+               1 Datei(en),            868 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\d6
+
+26.06.2020  15:27    <DIR>          .
+26.06.2020  15:27    <DIR>          ..
+26.06.2020  15:27               822 a1d4c66ebfed5cdd1808548ffd54ebe815c998
+               1 Datei(en),            822 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\d7
+
+26.06.2020  15:32    <DIR>          .
+26.06.2020  15:32    <DIR>          ..
+26.06.2020  15:32               248 a6edd9603f068ec49a944e4f816a65087f6ea4
+               1 Datei(en),            248 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\d8
+
+26.06.2020  15:32    <DIR>          .
+26.06.2020  15:32    <DIR>          ..
+26.06.2020  15:32               175 6d569e5a1d92308d2b2c8e94a8383a05bcc1c5
+               1 Datei(en),            175 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\dd
+
+26.06.2020  15:41    <DIR>          .
+26.06.2020  15:41    <DIR>          ..
+26.06.2020  15:41             2'656 cb9da48d512884cf7d0f00a48d7982e0b71bf8
+               1 Datei(en),          2'656 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\e2
+
+26.06.2020  15:00    <DIR>          .
+26.06.2020  15:00    <DIR>          ..
+26.06.2020  15:00               167 2318aabe87ec8050294a7c1f7c808a7e59c08c
+               1 Datei(en),            167 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\e3
+
+26.06.2020  15:00    <DIR>          .
+26.06.2020  15:00    <DIR>          ..
+26.06.2020  15:00               282 5bffe3fa3216155f5a2d94385762a8da151b84
+               1 Datei(en),            282 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\e4
+
+26.06.2020  15:00    <DIR>          .
+26.06.2020  15:00    <DIR>          ..
+26.06.2020  15:00               452 2dbf1dd2c52cd6dafe1479bc481e2a30a8e9eb
+               1 Datei(en),            452 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\e9
+
+26.06.2020  14:49    <DIR>          .
+26.06.2020  14:49    <DIR>          ..
+26.06.2020  14:49               399 7ad1957707f8ffd7085a5169c5217410d20f85
+               1 Datei(en),            399 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\ea
+
+26.06.2020  14:49    <DIR>          .
+26.06.2020  14:49    <DIR>          ..
+26.06.2020  14:49               633 2b7d9bc59fda3fe0560718376048ec8de28a4f
+               1 Datei(en),            633 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\ee
+
+26.06.2020  14:49    <DIR>          .
+26.06.2020  14:49    <DIR>          ..
+26.06.2020  14:49               600 f8e17c70d8ebec517d1c82f7065fceab3c5417
+               1 Datei(en),            600 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\f2
+
+26.06.2020  15:00    <DIR>          .
+26.06.2020  15:00    <DIR>          ..
+26.06.2020  15:00               795 300b888d205d09a9de51f01d3930d56376236d
+               1 Datei(en),            795 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\f3
+
+26.06.2020  15:41    <DIR>          .
+26.06.2020  15:41    <DIR>          ..
+26.06.2020  14:49               493 60f679be4b9567595787548fb1ed16872fcd2b
+26.06.2020  15:41               206 f8a6a9864ca5c454be4997f4f48720c2aeeb88
+               2 Datei(en),            699 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\f5
+
+26.06.2020  15:00    <DIR>          .
+26.06.2020  15:00    <DIR>          ..
+26.06.2020  15:00               183 82be0df90932c0bb45c27cbcb859dcd3b12b89
+               1 Datei(en),            183 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\fc
+
+26.06.2020  14:49    <DIR>          .
+26.06.2020  14:49    <DIR>          ..
+26.06.2020  14:49               720 595b0945f87198f8eca8804830705417f2c4b9
+               1 Datei(en),            720 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\info
+
+26.06.2020  14:22    <DIR>          .
+26.06.2020  14:22    <DIR>          ..
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\objects\pack
+
+26.06.2020  14:22    <DIR>          .
+26.06.2020  14:22    <DIR>          ..
+26.06.2020  14:22             1'156 pack-d4aa2e36abdcd6e1a4b4bcf1ba812090da3df277.idx
+26.06.2020  14:22               650 pack-d4aa2e36abdcd6e1a4b4bcf1ba812090da3df277.pack
+               2 Datei(en),          1'806 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\refs
+
+26.06.2020  14:22    <DIR>          .
+26.06.2020  14:22    <DIR>          ..
+26.06.2020  15:42    <DIR>          heads
+26.06.2020  14:22    <DIR>          remotes
+26.06.2020  14:22    <DIR>          tags
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\refs\heads
+
+26.06.2020  15:42    <DIR>          .
+26.06.2020  15:42    <DIR>          ..
+26.06.2020  15:42                41 master
+               1 Datei(en),             41 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\refs\remotes
+
+26.06.2020  14:22    <DIR>          .
+26.06.2020  14:22    <DIR>          ..
+26.06.2020  15:42    <DIR>          origin
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\refs\remotes\origin
+
+26.06.2020  15:42    <DIR>          .
+26.06.2020  15:42    <DIR>          ..
+26.06.2020  14:22                32 HEAD
+26.06.2020  15:42                41 master
+               2 Datei(en),             73 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\.git\refs\tags
+
+26.06.2020  14:22    <DIR>          .
+26.06.2020  14:22    <DIR>          ..
+               0 Datei(en),              0 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\Java_File_IO_Examples
+
+26.06.2020  15:04    <DIR>          .
+26.06.2020  15:04    <DIR>          ..
+26.06.2020  15:00             1'233 @README.txt
+26.06.2020  15:00               838 ByteArrToInputStream.java
+26.06.2020  15:00             1'055 ByteWriteToFile.java
+26.06.2020  15:00               601 ClassLoaderFileLoading.java
+26.06.2020  15:00               327 FileListFromFolder.java
+26.06.2020  15:00               328 FilesListFromFolder.java
+26.06.2020  15:00             1'005 FileToByteArray.java
+26.06.2020  15:00             1'056 MyByteArrayToReader.java
+26.06.2020  15:00               655 MyFileFilter.java
+26.06.2020  15:00               262 MyFileLastModified.java
+26.06.2020  15:00             1'318 MyFileOperations.java
+26.06.2020  15:00               855 MyFilePermissions.java
+26.06.2020  15:00             1'021 MyFileReadBybis.java
+26.06.2020  15:00               230 MyFileUrl.java
+26.06.2020  15:00               796 MyFileXmlStore.java
+26.06.2020  15:04               676 MyFilteredFileList.java
+26.06.2020  15:00               943 MyIstoBr.java
+26.06.2020  15:00             2'817 MyObjectFileStore.java
+26.06.2020  15:00               799 MyPropertyFileStore.java
+26.06.2020  15:00             1'180 MyTempDelete.java
+26.06.2020  15:00               836 MyTempFileWrite.java
+26.06.2020  15:00               513 MyTmpFile.java
+26.06.2020  15:00               828 ReadFromConsole.java
+26.06.2020  15:00               748 ReadLinesFromFile.java
+26.06.2020  15:00             1'067 WriteToFile.java
+              25 Datei(en),         21'987 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\Java_JDBC_Examples
+
+26.06.2020  15:49    <DIR>          .
+26.06.2020  15:49    <DIR>          ..
+26.06.2020  14:11             1'611 @README.txt
+26.06.2020  14:11               248 @README2.txt
+26.06.2020  14:11               849 JdbcConnection.java
+26.06.2020  14:11             1'639 MyAutoGeneratedKeys.java
+26.06.2020  15:03             1'348 MyBatchCallableStatement
+26.06.2020  14:11             1'348 MyBatchCallableStatement.java
+26.06.2020  14:11             1'733 MyBatchPreparedStmt.java
+26.06.2020  14:11             1'635 MyBlobInsert.java
+26.06.2020  14:11             2'176 MyBlobRead.java
+26.06.2020  14:11               806 MyConnWithProperties.java
+26.06.2020  14:11             1'487 MyCursorCallableStmt.java
+26.06.2020  14:11             1'239 MyDatabaseMetadata.java
+26.06.2020  14:11             1'658 MyExecuteMethod.java
+26.06.2020  14:11             1'443 MyFunctionCallableStmt.java
+26.06.2020  14:11             1'446 MyOutparmCallableStmt.java
+26.06.2020  15:27             1'510 MyPreparedStatement.java
+26.06.2020  14:11             1'656 MyPrepStmtResltSet.java
+26.06.2020  15:32             1'291 MyQueryUpdate.java
+26.06.2020  14:11             1'194 MyResultSetEx.java
+26.06.2020  14:11             1'507 MyResultSetMetadata.java
+26.06.2020  14:11             1'748 MyScrollableResultSetEx.java
+26.06.2020  14:11             1'255 MySimpleCallableStatement.java
+26.06.2020  14:11             1'685 MyStatementBatchUpdate.java
+26.06.2020  14:11             1'533 MyUpdatableResultSet.java
+              24 Datei(en),         34'045 Bytes
+
+ Verzeichnis von C:\Users\Jonas Wachter\Documents\GitHub\5is18b-M143_EJF\Java_Sort_Examples
+
+26.06.2020  15:04    <DIR>          .
+26.06.2020  15:04    <DIR>          ..
+26.06.2020  15:00             1'044 MyBubbleSort.java
+26.06.2020  15:00               748 MyInsertionSort.java
+26.06.2020  15:00             1'904 MyMergeSort.java
+26.06.2020  15:04             2'065 MyQuickSort.java
+26.06.2020  15:00               787 MySelectionSort.java
+               5 Datei(en),          6'548 Bytes
+
+     Anzahl der angezeigten Dateien:
+             197 Datei(en),        180'732 Bytes
+             320 Verzeichnis(se), 425'040'510'976 Bytes frei
