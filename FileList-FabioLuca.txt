@@ -1,0 +1,329 @@
+.:
+total 29
+drwxr-xr-x 1 Fabio 197121  0 Jun 26 15:38 ./
+drwxr-xr-x 1 Fabio 197121  0 Jun 26 15:14 ../
+drwxr-xr-x 1 Fabio 197121  0 Jun 26 15:29 .git/
+-rw-r--r-- 1 Fabio 197121  0 Jun 26 15:38 FileList-FabioLuca.txt
+drwxr-xr-x 1 Fabio 197121  0 Jun 26 15:14 Java_File_IO_Examples/
+drwxr-xr-x 1 Fabio 197121  0 Jun 26 15:29 Java_JDBC_Examples/
+drwxr-xr-x 1 Fabio 197121  0 Jun 26 15:14 Java_Sort_Examples/
+-rw-r--r-- 1 Fabio 197121 65 Jun 26 15:14 MemberList.txt
+
+./.git:
+total 31
+drwxr-xr-x 1 Fabio 197121    0 Jun 26 15:29 ./
+drwxr-xr-x 1 Fabio 197121    0 Jun 26 15:38 ../
+-rw-r--r-- 1 Fabio 197121  127 Jun 26 15:29 COMMIT_EDITMSG
+-rw-r--r-- 1 Fabio 197121  338 Jun 26 15:14 config
+-rw-r--r-- 1 Fabio 197121   73 Jun 26 15:14 description
+-rw-r--r-- 1 Fabio 197121  109 Jun 26 15:29 FETCH_HEAD
+-rw-r--r-- 1 Fabio 197121   23 Jun 26 15:14 HEAD
+drwxr-xr-x 1 Fabio 197121    0 Jun 26 15:14 hooks/
+-rw-r--r-- 1 Fabio 197121 6263 Jun 26 15:29 index
+drwxr-xr-x 1 Fabio 197121    0 Jun 26 15:14 info/
+drwxr-xr-x 1 Fabio 197121    0 Jun 26 15:14 logs/
+drwxr-xr-x 1 Fabio 197121    0 Jun 26 15:29 objects/
+-rw-r--r-- 1 Fabio 197121   41 Jun 26 15:29 ORIG_HEAD
+-rw-r--r-- 1 Fabio 197121  114 Jun 26 15:14 packed-refs
+drwxr-xr-x 1 Fabio 197121    0 Jun 26 15:14 refs/
+
+./.git/hooks:
+total 44
+drwxr-xr-x 1 Fabio 197121    0 Jun 26 15:14 ./
+drwxr-xr-x 1 Fabio 197121    0 Jun 26 15:29 ../
+-rwxr-xr-x 1 Fabio 197121  478 Jun 26 15:14 applypatch-msg.sample*
+-rwxr-xr-x 1 Fabio 197121  896 Jun 26 15:14 commit-msg.sample*
+-rwxr-xr-x 1 Fabio 197121 3327 Jun 26 15:14 fsmonitor-watchman.sample*
+-rwxr-xr-x 1 Fabio 197121  189 Jun 26 15:14 post-update.sample*
+-rwxr-xr-x 1 Fabio 197121  424 Jun 26 15:14 pre-applypatch.sample*
+-rwxr-xr-x 1 Fabio 197121 1638 Jun 26 15:14 pre-commit.sample*
+-rwxr-xr-x 1 Fabio 197121 1492 Jun 26 15:14 prepare-commit-msg.sample*
+-rwxr-xr-x 1 Fabio 197121 1348 Jun 26 15:14 pre-push.sample*
+-rwxr-xr-x 1 Fabio 197121 4898 Jun 26 15:14 pre-rebase.sample*
+-rwxr-xr-x 1 Fabio 197121  544 Jun 26 15:14 pre-receive.sample*
+-rwxr-xr-x 1 Fabio 197121 3610 Jun 26 15:14 update.sample*
+
+./.git/info:
+total 5
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:14 ./
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:29 ../
+-rw-r--r-- 1 Fabio 197121 240 Jun 26 15:14 exclude
+
+./.git/logs:
+total 8
+drwxr-xr-x 1 Fabio 197121    0 Jun 26 15:14 ./
+drwxr-xr-x 1 Fabio 197121    0 Jun 26 15:29 ../
+-rw-r--r-- 1 Fabio 197121 1025 Jun 26 15:29 HEAD
+drwxr-xr-x 1 Fabio 197121    0 Jun 26 15:14 refs/
+
+./.git/logs/refs:
+total 0
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:14 ./
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:14 ../
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:14 heads/
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:14 remotes/
+
+./.git/logs/refs/heads:
+total 4
+drwxr-xr-x 1 Fabio 197121    0 Jun 26 15:14 ./
+drwxr-xr-x 1 Fabio 197121    0 Jun 26 15:14 ../
+-rw-r--r-- 1 Fabio 197121 1025 Jun 26 15:29 master
+
+./.git/logs/refs/remotes:
+total 0
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:14 ./
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:14 ../
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:16 origin/
+
+./.git/logs/refs/remotes/origin:
+total 2
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:16 ./
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:14 ../
+-rw-r--r-- 1 Fabio 197121 213 Jun 26 15:14 HEAD
+-rw-r--r-- 1 Fabio 197121 709 Jun 26 15:29 master
+
+./.git/objects:
+total 12
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:29 ./
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:29 ../
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:29 19/
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:28 20/
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:16 3b/
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:28 3f/
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:20 48/
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:29 49/
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:20 64/
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:20 69/
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:29 6d/
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:16 7b/
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:29 83/
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:28 97/
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:16 a4/
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:28 ad/
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:29 b1/
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:16 b6/
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:29 d1/
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:20 d6/
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:14 info/
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:14 pack/
+
+./.git/objects/19:
+total 5
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:29 ./
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:29 ../
+-r--r--r-- 1 Fabio 197121 200 Jun 26 15:29 dea8faa2694bdfc684602a49a3ce6a077a1a9b
+
+./.git/objects/20:
+total 8
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:28 ./
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:29 ../
+-r--r--r-- 1 Fabio 197121 821 Jun 26 15:29 9a979b855e92a6de40e4a668356297b5521f8b
+
+./.git/objects/3b:
+total 8
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:16 ./
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:29 ../
+-r--r--r-- 1 Fabio 197121 624 Jun 26 15:16 9b574149b2cc5ef49d41d23df7e26b4a89a091
+
+./.git/objects/3f:
+total 5
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:28 ./
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:29 ../
+-r--r--r-- 1 Fabio 197121 166 Jun 26 15:29 92ea1cb558c5bc901aeb82aa7ecf5975d28d62
+
+./.git/objects/48:
+total 8
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:20 ./
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:29 ../
+-r--r--r-- 1 Fabio 197121 631 Jun 26 15:20 a51d9436b20191801a023119b1dfae10df9b1b
+
+./.git/objects/49:
+total 5
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:29 ./
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:29 ../
+-r--r--r-- 1 Fabio 197121 559 Jun 26 15:29 d350683fe4c4f338ae689943fe34c53fad1cc0
+
+./.git/objects/64:
+total 5
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:20 ./
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:29 ../
+-r--r--r-- 1 Fabio 197121 167 Jun 26 15:20 097b906f85c4c0dc137fe30e0f0588c82256ce
+
+./.git/objects/69:
+total 5
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:20 ./
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:29 ../
+-r--r--r-- 1 Fabio 197121 195 Jun 26 15:20 e5ef468ec7748dcaa7d88429f49b5b4932eb29
+
+./.git/objects/6d:
+total 5
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:29 ./
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:29 ../
+-r--r--r-- 1 Fabio 197121 245 Jun 26 15:29 a9f8bd71eca9b33eca913784650285bd65f2b9
+
+./.git/objects/7b:
+total 5
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:16 ./
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:29 ../
+-r--r--r-- 1 Fabio 197121 196 Jun 26 15:16 ccc4e4f4b409106bdf8ac653cb3ac650215324
+
+./.git/objects/83:
+total 8
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:29 ./
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:29 ../
+-r--r--r-- 1 Fabio 197121 822 Jun 26 15:29 cdba131294f83f3a8910dbc638713e229b2bea
+
+./.git/objects/97:
+total 5
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:28 ./
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:29 ../
+-r--r--r-- 1 Fabio 197121 557 Jun 26 15:29 616905a204a9d37a8dc05f4a5b7f310f201c1c
+
+./.git/objects/a4:
+total 8
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:16 ./
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:29 ../
+-r--r--r-- 1 Fabio 197121 822 Jun 26 15:16 0529319ec8a29d33d4eec4bd2f456a367be087
+
+./.git/objects/ad:
+total 5
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:28 ./
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:29 ../
+-r--r--r-- 1 Fabio 197121 193 Jun 26 15:28 c41487dfff983ca65775e795207bb45a6607ab
+
+./.git/objects/b1:
+total 8
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:29 ./
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:29 ../
+-r--r--r-- 1 Fabio 197121 618 Jun 26 15:29 bb3522b11f0e0269650f12eed92fdabeafc698
+
+./.git/objects/b6:
+total 5
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:16 ./
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:29 ../
+-r--r--r-- 1 Fabio 197121 166 Jun 26 15:16 de65b953f25be28cfbf83587cb9a0ba65f5f3f
+
+./.git/objects/d1:
+total 5
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:29 ./
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:29 ../
+-r--r--r-- 1 Fabio 197121 166 Jun 26 15:29 2bde915a95fb1c1582d650172e57434f0dba32
+
+./.git/objects/d6:
+total 8
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:20 ./
+drwxr-xr-x 1 Fabio 197121   0 Jun 26 15:29 ../
+-r--r--r-- 1 Fabio 197121 822 Jun 26 15:20 a1d4c66ebfed5cdd1808548ffd54ebe815c998
+
+./.git/objects/info:
+total 4
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:14 ./
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:29 ../
+
+./.git/objects/pack:
+total 32
+drwxr-xr-x 1 Fabio 197121     0 Jun 26 15:14 ./
+drwxr-xr-x 1 Fabio 197121     0 Jun 26 15:29 ../
+-r--r--r-- 1 Fabio 197121  3340 Jun 26 15:14 pack-f0f5067287a951afd34c6cf414834b982677d480.idx
+-r--r--r-- 1 Fabio 197121 20228 Jun 26 15:14 pack-f0f5067287a951afd34c6cf414834b982677d480.pack
+
+./.git/refs:
+total 4
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:14 ./
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:29 ../
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:29 heads/
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:14 remotes/
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:14 tags/
+
+./.git/refs/heads:
+total 1
+drwxr-xr-x 1 Fabio 197121  0 Jun 26 15:29 ./
+drwxr-xr-x 1 Fabio 197121  0 Jun 26 15:14 ../
+-rw-r--r-- 1 Fabio 197121 41 Jun 26 15:29 master
+
+./.git/refs/remotes:
+total 0
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:14 ./
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:14 ../
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:29 origin/
+
+./.git/refs/remotes/origin:
+total 2
+drwxr-xr-x 1 Fabio 197121  0 Jun 26 15:29 ./
+drwxr-xr-x 1 Fabio 197121  0 Jun 26 15:14 ../
+-rw-r--r-- 1 Fabio 197121 32 Jun 26 15:14 HEAD
+-rw-r--r-- 1 Fabio 197121 41 Jun 26 15:29 master
+
+./.git/refs/tags:
+total 0
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:14 ./
+drwxr-xr-x 1 Fabio 197121 0 Jun 26 15:14 ../
+
+./Java_File_IO_Examples:
+total 97
+drwxr-xr-x 1 Fabio 197121    0 Jun 26 15:14 ./
+drwxr-xr-x 1 Fabio 197121    0 Jun 26 15:38 ../
+-rw-r--r-- 1 Fabio 197121 1233 Jun 26 15:14 @README.txt
+-rw-r--r-- 1 Fabio 197121  838 Jun 26 15:14 ByteArrToInputStream.java
+-rw-r--r-- 1 Fabio 197121 1055 Jun 26 15:14 ByteWriteToFile.java
+-rw-r--r-- 1 Fabio 197121  601 Jun 26 15:14 ClassLoaderFileLoading.java
+-rw-r--r-- 1 Fabio 197121  327 Jun 26 15:14 FileListFromFolder.java
+-rw-r--r-- 1 Fabio 197121  328 Jun 26 15:14 FilesListFromFolder.java
+-rw-r--r-- 1 Fabio 197121 1005 Jun 26 15:14 FileToByteArray.java
+-rw-r--r-- 1 Fabio 197121 1056 Jun 26 15:14 MyByteArrayToReader.java
+-rw-r--r-- 1 Fabio 197121  655 Jun 26 15:14 MyFileFilter.java
+-rw-r--r-- 1 Fabio 197121  262 Jun 26 15:14 MyFileLastModified.java
+-rw-r--r-- 1 Fabio 197121 1318 Jun 26 15:14 MyFileOperations.java
+-rw-r--r-- 1 Fabio 197121  855 Jun 26 15:14 MyFilePermissions.java
+-rw-r--r-- 1 Fabio 197121 1021 Jun 26 15:14 MyFileReadBybis.java
+-rw-r--r-- 1 Fabio 197121  230 Jun 26 15:14 MyFileUrl.java
+-rw-r--r-- 1 Fabio 197121  796 Jun 26 15:14 MyFileXmlStore.java
+-rw-r--r-- 1 Fabio 197121  676 Jun 26 15:14 MyFilteredFileList.java
+-rw-r--r-- 1 Fabio 197121  943 Jun 26 15:14 MyIstoBr.java
+-rw-r--r-- 1 Fabio 197121 2817 Jun 26 15:14 MyObjectFileStore.java
+-rw-r--r-- 1 Fabio 197121  799 Jun 26 15:14 MyPropertyFileStore.java
+-rw-r--r-- 1 Fabio 197121 1180 Jun 26 15:14 MyTempDelete.java
+-rw-r--r-- 1 Fabio 197121  836 Jun 26 15:14 MyTempFileWrite.java
+-rw-r--r-- 1 Fabio 197121  513 Jun 26 15:14 MyTmpFile.java
+-rw-r--r-- 1 Fabio 197121  828 Jun 26 15:14 ReadFromConsole.java
+-rw-r--r-- 1 Fabio 197121  748 Jun 26 15:14 ReadLinesFromFile.java
+-rw-r--r-- 1 Fabio 197121 1067 Jun 26 15:14 WriteToFile.java
+
+./Java_JDBC_Examples:
+total 105
+drwxr-xr-x 1 Fabio 197121    0 Jun 26 15:29 ./
+drwxr-xr-x 1 Fabio 197121    0 Jun 26 15:38 ../
+-rw-r--r-- 1 Fabio 197121 1584 Jun 26 15:14 @README.txt
+-rw-r--r-- 1 Fabio 197121  237 Jun 26 15:14 @README2.txt
+-rw-r--r-- 1 Fabio 197121  822 Jun 26 15:14 JdbcConnection.java
+-rw-r--r-- 1 Fabio 197121 1591 Jun 26 15:14 MyAutoGeneratedKeys.java
+-rw-r--r-- 1 Fabio 197121 1309 Jun 26 15:14 MyBatchCallableStatement
+-rw-r--r-- 1 Fabio 197121 1309 Jun 26 15:14 MyBatchCallableStatement.java
+-rw-r--r-- 1 Fabio 197121 1681 Jun 26 15:14 MyBatchPreparedStmt.java
+-rw-r--r-- 1 Fabio 197121 1589 Jun 26 15:14 MyBlobInsert.java
+-rw-r--r-- 1 Fabio 197121 2114 Jun 26 15:14 MyBlobRead.java
+-rw-r--r-- 1 Fabio 197121  782 Jun 26 15:14 MyConnWithProperties.java
+-rw-r--r-- 1 Fabio 197121 1444 Jun 26 15:14 MyCursorCallableStmt.java
+-rw-r--r-- 1 Fabio 197121 1203 Jun 26 15:14 MyDatabaseMetadata.java
+-rw-r--r-- 1 Fabio 197121 1611 Jun 26 15:14 MyExecuteMethod.java
+-rw-r--r-- 1 Fabio 197121 1404 Jun 26 15:14 MyFunctionCallableStmt.java
+-rw-r--r-- 1 Fabio 197121 1406 Jun 26 15:14 MyOutparmCallableStmt.java
+-rw-r--r-- 1 Fabio 197121 1467 Jun 26 15:20 MyPreparedStatement.java
+-rw-r--r-- 1 Fabio 197121 1608 Jun 26 15:14 MyPrepStmtResltSet.java
+-rw-r--r-- 1 Fabio 197121 1242 Jun 26 15:29 MyQueryUpdate.java
+-rw-r--r-- 1 Fabio 197121 1159 Jun 26 15:14 MyResultSetEx.java
+-rw-r--r-- 1 Fabio 197121 1463 Jun 26 15:14 MyResultSetMetadata.java
+-rw-r--r-- 1 Fabio 197121 1701 Jun 26 15:14 MyScrollableResultSetEx.java
+-rw-r--r-- 1 Fabio 197121 1218 Jun 26 15:14 MySimpleCallableStatement.java
+-rw-r--r-- 1 Fabio 197121 1636 Jun 26 15:14 MyStatementBatchUpdate.java
+-rw-r--r-- 1 Fabio 197121 1489 Jun 26 15:14 MyUpdatableResultSet.java
+
+./Java_Sort_Examples:
+total 28
+drwxr-xr-x 1 Fabio 197121    0 Jun 26 15:14 ./
+drwxr-xr-x 1 Fabio 197121    0 Jun 26 15:38 ../
+-rw-r--r-- 1 Fabio 197121 1003 Jun 26 15:14 MyBubbleSort.java
+-rw-r--r-- 1 Fabio 197121  720 Jun 26 15:14 MyInsertionSort.java
+-rw-r--r-- 1 Fabio 197121 1839 Jun 26 15:14 MyMergeSort.java
+-rw-r--r-- 1 Fabio 197121 1996 Jun 26 15:14 MyQuickSort.java
+-rw-r--r-- 1 Fabio 197121  757 Jun 26 15:14 MySelectionSort.java
