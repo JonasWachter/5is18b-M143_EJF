@@ -1,0 +1,39 @@
+2020-06-19T12:18:44.511Z - info: [main] Received possible protocol arguments: 2
+2020-06-19T12:18:44.513Z - error: [main] Malformed launch arguments received: C:\Users\efi\AppData\Local\GitHubDesktop\app-2.5.2\GitHubDesktop.exe,--squirrel-firstrun
+2020-06-19T12:18:45.491Z - info: [ui] [AppStore] loading 0 repositories from store
+2020-06-19T12:18:45.526Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-19T12:18:45.532Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-19T12:18:45.676Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-19T12:18:46.319Z - info: [ui] launching: 2.5.2 (Windows 10.0.18363)
+2020-06-19T12:18:46.319Z - info: [ui] execPath: 'C:\Users\efi\AppData\Local\GitHubDesktop\app-2.5.2\GitHubDesktop.exe'
+2020-06-19T12:18:46.319Z - info: [ui] Opt in reported.
+2020-06-19T12:18:46.363Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-19T12:18:47.753Z - info: [ui] Executing installGlobalLFSFilter: git lfs install --skip-repo (took 1.882s)
+2020-06-19T12:19:56.011Z - info: [ui] [Welcome] advancing to step: SignInToDotComWithBrowser
+2020-06-19T12:19:56.013Z - info: [ui] [SignInStore] initializing OAuth flow
+2020-06-19T12:19:56.014Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=de0e3c7e9973e1c4dd77&scope=repo%20user%20workflow&state=fa6b6faf-4ddc-4966-82d6-d6c3a1b60afc
+2020-06-19T12:19:56.014Z - info: [ui] [Welcome] current sign in state not found. ignoring...
+2020-06-19T12:19:58.272Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2020-06-19T12:20:16.256Z - info: [main] Received possible protocol arguments: 5
+2020-06-19T12:20:16.256Z - info: [main] Processing protocol url
+2020-06-19T12:20:16.275Z - info: [ui] [Dispatcher] requesting authenticated user
+2020-06-19T12:20:16.281Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2020-06-19T12:20:16.437Z - info: [main] Received possible protocol arguments: 3
+2020-06-19T12:20:16.439Z - info: [main] Processing protocol url
+2020-06-19T12:20:17.301Z - info: [ui] [SignInStore] account resolved
+2020-06-19T12:20:17.302Z - info: [ui] [AppStore] adding account eliafrei (eliafrei) to store
+2020-06-19T12:20:17.311Z - info: [ui] [Welcome] advancing to step: ConfigureGit
+2020-06-19T12:20:17.368Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-19T12:20:17.573Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-19T12:20:23.296Z - info: [ui] [Welcome] advancing to step: UsageOptOut
+2020-06-19T12:20:45.533Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-19T12:21:12.676Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-19T12:21:36.344Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2020-06-19T12:21:38.336Z - info: [ui] Opt in reported.
+2020-06-19T12:26:24.115Z - info: [ui] [AppStore] adding repository at C:\Users\efi\Documents\GitHub\echoServer to store
+2020-06-19T12:26:25.373Z - info: [ui] Executing isUsingLFS: git lfs track (took 1.100s)
+2020-06-19T12:33:38.610Z - info: [ui] [Timing] Action 'create commit' for 'echoServer' took 1.632s
+2020-06-19T12:34:04.623Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master --set-upstream --progress (took 6.369s)
+2020-06-19T12:34:07.887Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 3.159s)
+2020-06-19T13:04:24.062Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 3.368s)
+2020-06-19T13:34:39.275Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 3.238s)

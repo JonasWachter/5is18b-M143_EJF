@@ -1,0 +1,194 @@
+2020-06-26T12:09:47.283Z - info: [ui] [AppStore] loading 1 repositories from store
+2020-06-26T12:09:47.284Z - info: [ui] [AppStore] found account: eliafrei (eliafrei)
+2020-06-26T12:09:48.814Z - info: [ui] launching: 2.5.2 (Windows 10.0.18363)
+2020-06-26T12:09:48.815Z - info: [ui] execPath: 'C:\Users\efi\AppData\Local\GitHubDesktop\app-2.5.2\GitHubDesktop.exe'
+2020-06-26T12:09:49.204Z - info: [ui] Stats reported.
+2020-06-26T12:09:50.551Z - info: [ui] Executing getConfigValueInPath: git config -z pull.rebase (took 1.013s)
+2020-06-26T12:09:50.629Z - info: [ui] Executing getCommits: git log origin/master..master --date=raw --max-count=100 --pretty=%H%x1F%h%x1F%s%x1F%b%x1F%an <%ae> %ad%x1F%cn <%ce> %cd%x1F%P%x1F%(trailers:unfold,only)%x1F%D -z --no-show-signature --no-color -- (took 1.021s)
+2020-06-26T12:09:51.143Z - info: [ui] Executing installGlobalLFSFilter: git lfs install --skip-repo (took 2.668s)
+2020-06-26T12:10:00.414Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 3.417s)
+2020-06-26T12:25:41.253Z - info: [ui] [AppStore] adding repository at C:\Users\efi\Documents\Schule\5IS18b\5is18b-M143_EJF to store
+2020-06-26T12:25:42.536Z - info: [ui] Executing isUsingLFS: git lfs track (took 1.152s)
+2020-06-26T12:26:50.005Z - info: [ui] Background fetch for 2 repositories took 1.910sec
+2020-06-26T12:29:26.242Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/JonasWachter/5is18b-M143_EJF.git - eliafrei (has token)
+2020-06-26T12:29:30.450Z - info: [ui] Executing clone: git -c credential.helper= -c protocol.version=2 clone --recursive --progress -- https://github.com/JonasWachter/5is18b-M143_EJF.git C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF (took 4.076s)
+2020-06-26T12:29:30.560Z - info: [ui] [AppStore] adding repository at C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF to store
+2020-06-26T12:34:44.473Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.576s)
+2020-06-26T12:41:50.975Z - info: [ui] Background fetch for 3 repositories took 2.215sec
+2020-06-26T12:47:22.875Z - info: [ui] [BranchPruner] No branches to prune.
+2020-06-26T12:47:57.280Z - info: [ui] [BranchPruner] No branches to prune.
+2020-06-26T12:49:53.289Z - info: [ui] [Timing] Action 'create commit' for 'jonaswachter/5is18b-M143_EJF' took 1.729s
+2020-06-26T12:50:14.218Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - eliafrei (has token)
+2020-06-26T12:50:16.028Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master:master --progress (took 1.682s)
+2020-06-26T12:51:06.108Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - eliafrei (has token)
+2020-06-26T12:51:07.962Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master:master --progress (took 1.725s)
+2020-06-26T12:51:07.963Z - error: [ui] `git -c credential.helper= -c protocol.version=2 push origin master:master --progress` exited with an unexpected code: 1.
+stderr:
+To https://github.com/eliafrei/5is18b-M143_EJF.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/eliafrei/5is18b-M143_EJF.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+(The error was parsed as 10: The repository has been updated since you last pulled. Try pulling before pushing.)
+2020-06-26T12:51:46.293Z - info: [ui] [BranchPruner] No branches to prune.
+2020-06-26T12:52:03.706Z - info: [ui] [BranchPruner] No branches to prune.
+2020-06-26T12:52:11.665Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - eliafrei (has token)
+2020-06-26T12:52:14.341Z - info: [ui] Executing pull: git -c credential.helper= -c protocol.version=2 pull --progress origin (took 2.428s)
+2020-06-26T12:52:17.425Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - eliafrei (has token)
+2020-06-26T12:52:22.260Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master:master --progress (took 4.714s)
+2020-06-26T12:52:23.840Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.455s)
+2020-06-26T12:52:28.980Z - info: [ui] [BranchPruner] Last prune took place in a day - skipping
+2020-06-26T12:53:42.361Z - info: [ui] [BranchPruner] No branches to prune.
+2020-06-26T12:56:49.969Z - info: [ui] Background fetch for 3 repositories took 1.873sec
+2020-06-26T12:58:08.167Z - info: [ui] [BranchPruner] No branches to prune.
+2020-06-26T12:58:16.977Z - info: [ui] [BranchPruner] No branches to prune.
+2020-06-26T12:58:19.415Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 2.703s)
+2020-06-26T12:59:10.909Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/JonasWachter/5is18b-M143_EJF.git - eliafrei (has token)
+2020-06-26T12:59:15.108Z - info: [ui] Executing clone: git -c credential.helper= -c protocol.version=2 clone --recursive --progress -- https://github.com/JonasWachter/5is18b-M143_EJF.git C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF (took 4.052s)
+2020-06-26T12:59:15.221Z - info: [ui] [AppStore] adding repository at C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF to store
+2020-06-26T12:59:15.930Z - info: [ui] [BranchPruner] No branches to prune.
+2020-06-26T12:59:49.876Z - info: [ui] [Timing] Action 'create commit' for 'jonaswachter/5is18b-M143_EJF' took 1.745s
+2020-06-26T12:59:51.334Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - eliafrei (has token)
+2020-06-26T12:59:56.524Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master:master --progress (took 5.067s)
+2020-06-26T12:59:58.111Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.461s)
+2020-06-26T13:00:42.216Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - eliafrei (has token)
+2020-06-26T13:00:44.060Z - info: [ui] Executing pull: git -c credential.helper= -c protocol.version=2 pull --progress origin (took 1.596s)
+2020-06-26T13:01:47.177Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - eliafrei (has token)
+2020-06-26T13:01:49.146Z - info: [ui] Executing pull: git -c credential.helper= -c protocol.version=2 pull --progress origin (took 1.726s)
+2020-06-26T13:02:34.073Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - eliafrei (has token)
+2020-06-26T13:02:35.911Z - info: [ui] Executing pull: git -c credential.helper= -c protocol.version=2 pull --progress origin (took 1.583s)
+2020-06-26T13:03:28.230Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - eliafrei (has token)
+2020-06-26T13:03:30.223Z - info: [ui] Executing pull: git -c credential.helper= -c protocol.version=2 pull --progress origin (took 1.751s)
+2020-06-26T13:03:55.751Z - info: [ui] [Timing] Action 'create commit' for 'jonaswachter/5is18b-M143_EJF' took 1.807s
+2020-06-26T13:03:57.963Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - eliafrei (has token)
+2020-06-26T13:04:02.918Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master:master --progress (took 4.825s)
+2020-06-26T13:04:04.552Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.520s)
+2020-06-26T13:04:14.169Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - eliafrei (has token)
+2020-06-26T13:04:15.949Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master:master --progress (took 1.655s)
+2020-06-26T13:04:17.548Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.463s)
+2020-06-26T13:04:20.870Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - eliafrei (has token)
+2020-06-26T13:04:22.705Z - info: [ui] Executing pull: git -c credential.helper= -c protocol.version=2 pull --progress origin (took 1.577s)
+2020-06-26T13:05:50.020Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - eliafrei (has token)
+2020-06-26T13:05:51.897Z - info: [ui] Executing pull: git -c credential.helper= -c protocol.version=2 pull --progress origin (took 1.622s)
+2020-06-26T13:07:07.606Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - eliafrei (has token)
+2020-06-26T13:07:09.635Z - info: [ui] Executing pull: git -c credential.helper= -c protocol.version=2 pull --progress origin (took 1.784s)
+2020-06-26T13:08:37.754Z - info: [ui] [BranchPruner] Last prune took place in a day - skipping
+2020-06-26T13:09:40.876Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - eliafrei (has token)
+2020-06-26T13:09:42.722Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master:master --progress (took 1.720s)
+2020-06-26T13:09:42.723Z - error: [ui] `git -c credential.helper= -c protocol.version=2 push origin master:master --progress` exited with an unexpected code: 1.
+stderr:
+To https://github.com/JonasWachter/5is18b-M143_EJF.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/JonasWachter/5is18b-M143_EJF.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+(The error was parsed as 10: The repository has been updated since you last pulled. Try pulling before pushing.)
+2020-06-26T13:09:54.189Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - eliafrei (has token)
+2020-06-26T13:09:56.022Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master:master --progress (took 1.715s)
+2020-06-26T13:09:56.023Z - error: [ui] `git -c credential.helper= -c protocol.version=2 push origin master:master --progress` exited with an unexpected code: 1.
+stderr:
+To https://github.com/JonasWachter/5is18b-M143_EJF.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/JonasWachter/5is18b-M143_EJF.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+(The error was parsed as 10: The repository has been updated since you last pulled. Try pulling before pushing.)
+2020-06-26T13:11:43.564Z - info: [ui] [Timing] Action 'create commit' for 'jonaswachter/5is18b-M143_EJF' took 1.678s
+2020-06-26T13:11:47.411Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - eliafrei (has token)
+2020-06-26T13:11:49.423Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master:master --progress (took 1.889s)
+2020-06-26T13:11:49.424Z - error: [ui] `git -c credential.helper= -c protocol.version=2 push origin master:master --progress` exited with an unexpected code: 1.
+stderr:
+To https://github.com/JonasWachter/5is18b-M143_EJF.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/JonasWachter/5is18b-M143_EJF.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+(The error was parsed as 10: The repository has been updated since you last pulled. Try pulling before pushing.)
+2020-06-26T13:11:50.185Z - info: [ui] Background fetch for 3 repositories took 2.098sec
+2020-06-26T13:11:56.006Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - eliafrei (has token)
+2020-06-26T13:11:58.069Z - info: [ui] Executing pull: git -c credential.helper= -c protocol.version=2 pull --progress origin (took 1.820s)
+2020-06-26T13:15:31.802Z - info: [ui] [BranchPruner] Last prune took place in a day - skipping
+2020-06-26T13:16:51.059Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/JonasWachter/5is18b-M143_EJF.git - eliafrei (has token)
+2020-06-26T13:16:55.397Z - info: [ui] Executing clone: git -c credential.helper= -c protocol.version=2 clone --recursive --progress -- https://github.com/JonasWachter/5is18b-M143_EJF.git C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF (took 4.196s)
+2020-06-26T13:16:55.514Z - info: [ui] [AppStore] adding repository at C:\Users\efi\Documents\Schule\5IS18b\5is18b\5is18b-M143_EJF to store
+2020-06-26T13:16:56.221Z - info: [ui] [BranchPruner] No branches to prune.
+2020-06-26T13:18:05.404Z - info: [ui] [Timing] Action 'create commit' for 'jonaswachter/5is18b-M143_EJF' took 1.714s
+2020-06-26T13:18:07.119Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - eliafrei (has token)
+2020-06-26T13:18:11.877Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master:master --progress (took 4.632s)
+2020-06-26T13:18:13.478Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.477s)
+2020-06-26T13:26:50.152Z - info: [ui] Background fetch for 3 repositories took 2.056sec
+2020-06-26T13:27:07.803Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - eliafrei (has token)
+2020-06-26T13:27:09.639Z - info: [ui] Executing pull: git -c credential.helper= -c protocol.version=2 pull --progress origin (took 1.599s)
+2020-06-26T13:30:17.727Z - info: [ui] [Timing] Action 'create commit' for 'jonaswachter/5is18b-M143_EJF' took 1.698s
+2020-06-26T13:30:19.764Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - eliafrei (has token)
+2020-06-26T13:30:21.661Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master:master --progress (took 1.775s)
+2020-06-26T13:30:21.669Z - error: [ui] `git -c credential.helper= -c protocol.version=2 push origin master:master --progress` exited with an unexpected code: 1.
+stderr:
+To https://github.com/JonasWachter/5is18b-M143_EJF.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/JonasWachter/5is18b-M143_EJF.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+(The error was parsed as 10: The repository has been updated since you last pulled. Try pulling before pushing.)
+2020-06-26T13:30:24.455Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - eliafrei (has token)
+2020-06-26T13:30:26.181Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.602s)
+2020-06-26T13:31:18.158Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - eliafrei (has token)
+2020-06-26T13:31:20.447Z - info: [ui] Executing pull: git -c credential.helper= -c protocol.version=2 pull --progress origin (took 1.895s)
+2020-06-26T13:31:20.450Z - error: [ui] `git -c credential.helper= -c protocol.version=2 pull --progress origin` exited with an unexpected code: 1.
+stdout:
+Auto-merging Java_JDBC_Examples/MyQueryUpdate.java
+CONFLICT (content): Merge conflict in Java_JDBC_Examples/MyQueryUpdate.java
+Automatic merge failed; fix conflicts and then commit the result.
+
+(The error was parsed as 7: We found some conflicts while trying to merge. Please resolve the conflicts and commit the changes.)
+2020-06-26T13:31:38.840Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - eliafrei (has token)
+2020-06-26T13:31:44.102Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master:master --progress (took 5.129s)
+2020-06-26T13:31:45.731Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.492s)
+2020-06-26T13:34:27.840Z - info: [ui] [BranchPruner] No branches to prune.
+2020-06-26T13:39:38.351Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - eliafrei (has token)
+2020-06-26T13:39:40.326Z - info: [ui] Executing pull: git -c credential.helper= -c protocol.version=2 pull --progress origin (took 1.734s)
+2020-06-26T13:41:16.114Z - info: [ui] [Timing] Action 'create commit' for 'jonaswachter/5is18b-M143_EJF' took 1.733s
+2020-06-26T13:41:16.690Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - eliafrei (has token)
+2020-06-26T13:41:21.511Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master:master --progress (took 4.696s)
+2020-06-26T13:41:23.117Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.490s)
+2020-06-26T13:41:50.124Z - info: [ui] Background fetch for 3 repositories took 2.038sec
+2020-06-26T13:43:28.530Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - eliafrei (has token)
+2020-06-26T13:43:30.358Z - info: [ui] Executing push: git -c credential.helper= -c protocol.version=2 push origin master:master --progress (took 1.706s)
+2020-06-26T13:43:30.360Z - error: [ui] `git -c credential.helper= -c protocol.version=2 push origin master:master --progress` exited with an unexpected code: 1.
+stderr:
+To https://github.com/JonasWachter/5is18b-M143_EJF.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/JonasWachter/5is18b-M143_EJF.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+(The error was parsed as 10: The repository has been updated since you last pulled. Try pulling before pushing.)
+2020-06-26T13:43:41.616Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - eliafrei (has token)
+2020-06-26T13:43:43.577Z - info: [ui] Executing pull: git -c credential.helper= -c protocol.version=2 pull --progress origin (took 1.726s)
+2020-06-26T13:46:58.112Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - eliafrei (has token)
+2020-06-26T13:46:59.923Z - info: [ui] Executing pull: git -c credential.helper= -c protocol.version=2 pull --progress origin (took 1.569s)
+2020-06-26T13:55:39.695Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: 5is18b-M143_EJF - eliafrei (has token)
+2020-06-26T13:55:41.901Z - info: [ui] Executing pull: git -c credential.helper= -c protocol.version=2 pull --progress origin (took 1.967s)
